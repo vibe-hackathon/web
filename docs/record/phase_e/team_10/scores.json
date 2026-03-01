@@ -1,0 +1,144 @@
+{
+  "team_id": "team_10",
+  "average_score": 5.22,
+  "dimension_averages": {
+    "innovation": 4.3,
+    "feasibility": 5.6,
+    "presentation": 7.0,
+    "teamwork": 5.0,
+    "track_fit": 4.9
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_10",
+      "overall_impression": "EduGuru aims to address a significant educational gap, but the execution feels thin and lacks technical depth.",
+      "dimension_scores": {
+        "innovation": 4.0,
+        "feasibility": 4.5,
+        "presentation": 6.0,
+        "teamwork": 4.0,
+        "track_fit": 4.0
+      },
+      "strengths": [
+        "Clear problem statement and strong social impact focus",
+        "Well-defined team roles and clear vision"
+      ],
+      "weaknesses": [
+        "Over-reliance on GPT-4 without showing technical implementation or original engineering",
+        "Lack of detailed technical architecture and performance metrics"
+      ],
+      "feedback": "While the project addresses a critical need, consider integrating more original engineering elements such as custom protocols or novel data structures. Also, focus on providing concrete measures of success beyond user satisfaction and test scores."
+    },
+    {
+      "team_id": "team_10",
+      "overall_impression": "EduGuru demonstrates a noble goal to address educational gaps, particularly for visually impaired students, but lacks novelty and depth in technical execution.",
+      "dimension_scores": {
+        "innovation": 4.0,
+        "feasibility": 8.5,
+        "presentation": 7.5,
+        "teamwork": 6.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Strong team collaboration and clear roles defined."
+      ],
+      "weaknesses": [
+        "Lack of innovative technical approaches beyond standard AI and web technologies.",
+        "No detailed discussion on failure modes or operational considerations."
+      ],
+      "feedback": "While EduGuru addresses an important issue, consider integrating more advanced technical features such as real-time messaging for adaptive learning paths or robust observability measures. This will enhance both the innovation and feasibility of your project."
+    },
+    {
+      "team_id": "team_10",
+      "overall_impression": "EduGuru aims to address an important issue but lacks concrete technical details and measurable success criteria.",
+      "dimension_scores": {
+        "innovation": 3.0,
+        "feasibility": 5.0,
+        "presentation": 5.0,
+        "teamwork": 4.0,
+        "track_fit": 3.5
+      },
+      "strengths": [
+        "The team has a clear vision and addresses an important social impact issue.",
+        "The concept of personalized learning paths and real-time feedback is innovative."
+      ],
+      "weaknesses": [
+        "Lack of specific technical details and measurable success metrics makes it hard to assess feasibility.",
+        "No concrete examples or benchmarks were provided to demonstrate the system's performance."
+      ],
+      "feedback": "While the idea is promising, the team should focus on providing more technical details and measurable success criteria. Consider including benchmarks, latency numbers, and real-world examples to better demonstrate the system's effectiveness."
+    },
+    {
+      "team_id": "team_10",
+      "overall_impression": "EduGuru shows promise in addressing educational gaps, particularly for visually impaired students, but lacks depth in execution and collaboration.",
+      "dimension_scores": {
+        "innovation": 5.5,
+        "feasibility": 4.0,
+        "presentation": 8.5,
+        "teamwork": 5.0,
+        "track_fit": 7.0
+      },
+      "strengths": [
+        "Clear problem statement and strong focus on accessibility for visually impaired students.",
+        "Well-defined user stories and success metrics."
+      ],
+      "weaknesses": [
+        "Lack of concrete technical details and potential challenges in implementation were not fully addressed.",
+        "Inconsistent team roles and vision, with multiple PM/Visionaries."
+      ],
+      "feedback": "While EduGuru addresses a significant need, the team should focus more on technical feasibility and address the potential challenges in real-time feedback and robust accessibility. Consistent team roles and clearer division of responsibilities would enhance collaboration."
+    },
+    {
+      "team_id": "team_10",
+      "overall_impression": "EduGuru shows potential to address educational gaps, particularly for visually impaired students, but lacks creativity and depth in its approach.",
+      "dimension_scores": {
+        "innovation": 5.0,
+        "feasibility": 6.0,
+        "presentation": 8.0,
+        "teamwork": 6.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Well-defined team roles and a structured approach to project management."
+      ],
+      "weaknesses": [
+        "Lacks novel or interdisciplinary elements, focusing too narrowly on a common solution.",
+        "No clear differentiation from existing adaptive learning platforms."
+      ],
+      "feedback": "While EduGuru is a solid solution, consider incorporating more innovative features or integrating technologies that haven't been widely explored in educational tools. This could make your project stand out further and address educational gaps in new ways."
+    }
+  ],
+  "feedbacks": [
+    "While the project addresses a critical need, consider integrating more original engineering elements such as custom protocols or novel data structures. Also, focus on providing concrete measures of success beyond user satisfaction and test scores.",
+    "While EduGuru addresses an important issue, consider integrating more advanced technical features such as real-time messaging for adaptive learning paths or robust observability measures. This will enhance both the innovation and feasibility of your project.",
+    "While the idea is promising, the team should focus on providing more technical details and measurable success criteria. Consider including benchmarks, latency numbers, and real-world examples to better demonstrate the system's effectiveness.",
+    "While EduGuru addresses a significant need, the team should focus more on technical feasibility and address the potential challenges in real-time feedback and robust accessibility. Consistent team roles and clearer division of responsibilities would enhance collaboration.",
+    "While EduGuru is a solid solution, consider incorporating more innovative features or integrating technologies that haven't been widely explored in educational tools. This could make your project stand out further and address educational gaps in new ways."
+  ],
+  "strengths": [
+    "Clear problem statement and strong social impact focus",
+    "Well-defined team roles and clear vision",
+    "Clear and compelling presentation of the problem and solution.",
+    "Strong team collaboration and clear roles defined.",
+    "The team has a clear vision and addresses an important social impact issue.",
+    "The concept of personalized learning paths and real-time feedback is innovative.",
+    "Clear problem statement and strong focus on accessibility for visually impaired students.",
+    "Well-defined user stories and success metrics.",
+    "Clear and compelling presentation of the problem and solution.",
+    "Well-defined team roles and a structured approach to project management."
+  ],
+  "weaknesses": [
+    "Over-reliance on GPT-4 without showing technical implementation or original engineering",
+    "Lack of detailed technical architecture and performance metrics",
+    "Lack of innovative technical approaches beyond standard AI and web technologies.",
+    "No detailed discussion on failure modes or operational considerations.",
+    "Lack of specific technical details and measurable success metrics makes it hard to assess feasibility.",
+    "No concrete examples or benchmarks were provided to demonstrate the system's performance.",
+    "Lack of concrete technical details and potential challenges in implementation were not fully addressed.",
+    "Inconsistent team roles and vision, with multiple PM/Visionaries.",
+    "Lacks novel or interdisciplinary elements, focusing too narrowly on a common solution.",
+    "No clear differentiation from existing adaptive learning platforms."
+  ]
+}

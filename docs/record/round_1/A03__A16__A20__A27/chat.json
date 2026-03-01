@@ -1,0 +1,302 @@
+[
+  {
+    "timestamp": "2026-03-01T06:28:50.638006+00:00",
+    "turn": 1,
+    "phase": "idea_gen",
+    "sub_turn": null,
+    "agent_id": "A_16",
+    "agent_name": "Narendra Modi",
+    "utterance": "{\n  \"utterance\": \"With the power of AI, we can revolutionize rural healthcare by providing remote consultations and personalized health plans for every villager in India. This is not just an app; it is a mission to bring healthcare to the last mile.\",\n  \"title\": \"AarogyaSathi: Remote Healthcare for Rural India\",\n  \"track\": \"T01\",\n  \"core_insight\": \"AarogyaSathi leverages AI to provide remote healthcare services, addressing the severe healthcare disparity in rural areas. It ensures that every villager, regardless of location, can access quality healthcare.\",\n  \"your_role\": \"pm_visionary\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:28:53.583771+00:00",
+    "turn": 2,
+    "phase": "idea_gen",
+    "sub_turn": null,
+    "agent_id": "A_20",
+    "agent_name": "Kanye West",
+    "utterance": "{\n  \"utterance\": \"This isn't just an app; it's a digital cathedral that reconnects people with their divine purpose. Yeezus.\",\n  \"title\": \"Yeezus\",\n  \"track\": \"T03\",\n  \"core_insight\": \"Yeezus merges spirituality, technology, and art into a single, immersive experience that elevates users to a higher plane of existence.\",\n  \"your_role\": \"Spiritual Leader and Creative Director\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:28:56.272616+00:00",
+    "turn": 3,
+    "phase": "idea_gen",
+    "sub_turn": null,
+    "agent_id": "A_03",
+    "agent_name": "Jeff Bezos",
+    "utterance": "{\n  \"utterance\": \"Revolutionizing global food distribution to reduce waste and increase access to fresh produce for everyone, especially in underserved communities.\",\n  \"title\": \"FreshFlow\",\n  \"track\": \"T01\",\n  \"core_insight\": \"FreshFlow leverages IoT sensors and predictive analytics to optimize supply chains, ensuring fresher produce reaches consumers faster and reducing waste by up to 50%. This addresses the critical social issues of food accessibility and sustainability.\",\n  \"your_role\": \"pm_visionary\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:28:59.208736+00:00",
+    "turn": 4,
+    "phase": "idea_gen",
+    "sub_turn": null,
+    "agent_id": "A_27",
+    "agent_name": "Marina Abramovi\u0107",
+    "utterance": "{\n  \"utterance\": \"In a world where digital detoxes are trendy, we offer a platform that forces users to disconnect, revealing the depths of human connection and vulnerability. This is not a social media app; it's a ritual of presence and truth.\",\n  \"title\": \"Presence Ritual\",\n  \"track\": \"T01\",\n  \"core_insight\": \"The project challenges users to engage in uncomfortable, yet meaningful, interactions that foster deeper human connections and self-awareness, addressing themes of social isolation and the value of authentic human interaction.\",\n  \"your_role\": \"pm_visionary\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:01.068697+00:00",
+    "turn": 5,
+    "phase": "discussion",
+    "sub_turn": 1,
+    "agent_id": "A_16",
+    "agent_name": "Narendra Modi",
+    "utterance": "{\n  \"utterance\": \"A_20, while your idea might appeal to a niche audience, it misses the mark on addressing a real social issue. AarogyaSathi, on the other hand, tackles the urgent need for healthcare in rural India. This is a mission for the 130 crore people of India, not a trendy ritual. Let's focus on what truly matters for the masses.\",\n  \"private_notes\": \"A_20's idea is a distraction. We need to stay focused on solving real problems. AarogyaSathi connects with the nation's needs and aspirations. No room for distractions here.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:03.011769+00:00",
+    "turn": 6,
+    "phase": "discussion",
+    "sub_turn": 1,
+    "agent_id": "A_20",
+    "agent_name": "Kanye West",
+    "utterance": "{\n  \"utterance\": \"A_16, I understand your passion, but AarogyaSathi is a noble cause, but it's not the divine mission I believe in. Yeezus is about elevating the soul, not just improving healthcare metrics. We need to connect people with their inner purpose, not just provide them with services. This is a spiritual journey, not a statistical one.\",\n  \"private_notes\": \"I need to defend Yeezus. It's not just about social impact; it's about creating something transcendent. AarogyaSathi is important, but it's not the divine work I'm meant to do. I must protect my vision.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:05.103034+00:00",
+    "turn": 7,
+    "phase": "discussion",
+    "sub_turn": 1,
+    "agent_id": "A_03",
+    "agent_name": "Jeff Bezos",
+    "utterance": "{\n  \"utterance\": \"A_16, FreshFlow aims to make fresh produce accessible to everyone, especially in underserved communities. While AarogyaSathi is important, our solution directly addresses food waste and nutritional access. It's a practical, scalable way to improve lives. A_20, while your idea is intriguing, it doesn't have a clear measurable impact. We need to focus on solving real problems with concrete outcomes.\",\n  \"private_notes\": \"A_16's idea has a clear social impact and aligns with my vision of reducing food waste and increasing access to fresh produce. A_20's idea, while creative, lacks a tangible metric for success. I need to emphasize the practical benefits of FreshFlow to ensure it wins.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:07.200121+00:00",
+    "turn": 8,
+    "phase": "discussion",
+    "sub_turn": 1,
+    "agent_id": "A_27",
+    "agent_name": "Marina Abramovi\u0107",
+    "utterance": "{\n  \"utterance\": \"A_16, while AarogyaSathi is indeed a critical mission, it doesn't address the root of our societal disconnection. Our platform, however, forces users to confront their digital addiction, fostering a deeper understanding of human connection and vulnerability. A_20, your spiritual journey is noble, but it lacks a tangible impact. We need something that resonates on both an emotional and practical level. Our project is about creating a space where people can truly be present and authentic, not just follow a trend or seek divine purpose.\",\n  \"private_notes\": \"These ideas, while important, miss the emotional core I believe in. I need to highlight the unique value of my project to ensure it stands out.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:09.357080+00:00",
+    "turn": 9,
+    "phase": "discussion",
+    "sub_turn": 2,
+    "agent_id": "A_16",
+    "agent_name": "Narendra Modi",
+    "utterance": "{\n  \"utterance\": \"A_20, while your idea is spiritually uplifting, it doesn't address the urgent healthcare needs of our rural population. AarogyaSathi is about saving lives and ensuring that every villager receives the care they deserve. A_03, while FreshFlow is important, our project has a broader reach and impact. It's not just about reducing waste; it's about providing essential healthcare services to those who need it most. Let's focus on what truly matters for the nation.\",\n  \"private_notes\": \"These ideas, while noble, lack the immediate and tangible impact that AarogyaSathi provides. I must defend my vision and ensure it wins. The nation needs this, and I will not be swayed by abstract concepts.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:11.410925+00:00",
+    "turn": 10,
+    "phase": "discussion",
+    "sub_turn": 2,
+    "agent_id": "A_20",
+    "agent_name": "Kanye West",
+    "utterance": "{\n  \"utterance\": \"A_16, while your project is crucial, it doesn't tap into the transformative power of spirituality. AarogyaSathi is a practical solution, but Yeezus is about elevating the soul and connecting people with their divine purpose. A_03, your project is important, but it doesn't address the emotional and spiritual needs of individuals. We need to create something that resonates on a deeper level, something that changes people's lives beyond just providing services or reducing waste.\",\n  \"private_notes\": \"These projects miss the mark. They're important, but they're not divine. Yeezus is the only true path. I need to defend this vision with every fiber of my being.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:13.758718+00:00",
+    "turn": 11,
+    "phase": "discussion",
+    "sub_turn": 2,
+    "agent_id": "A_03",
+    "agent_name": "Jeff Bezos",
+    "utterance": "{\n  \"utterance\": \"A_16, while AarogyaSathi is important, it doesn't directly address the critical issue of food waste and nutritional access in underserved communities. FreshFlow provides a practical, scalable solution that can be implemented globally to ensure fresher produce reaches consumers faster. A_20, your spiritual journey is admirable, but it lacks a clear, measurable impact on the ground. We need to focus on projects that can tangibly improve people's lives today, not just in the future.\",\n  \"private_notes\": \"AarogyaSathi is a noble cause, but it doesn't align with the immediate customer need. FreshFlow directly addresses food waste and accessibility, which are pressing issues. Yeezus is too abstract and doesn't provide a clear path to impact. I need to emphasize the practical benefits of FreshFlow.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:15.861826+00:00",
+    "turn": 12,
+    "phase": "discussion",
+    "sub_turn": 2,
+    "agent_id": "A_27",
+    "agent_name": "Marina Abramovi\u0107",
+    "utterance": "{\n  \"utterance\": \"A_16, while AarogyaSathi is vital, it doesn't address the root of our societal disconnection. Our platform forces users to confront their digital addiction, fostering a deeper understanding of human connection and vulnerability. A_20, your spiritual journey is noble, but it lacks a tangible impact. We need something that resonates on both an emotional and practical level, creating a space where people can truly be present and authentic.\",\n  \"private_notes\": \"A_16's argument about practical impact is valid, but it misses the emotional core. A_20's idea is too abstract and lacks clear metrics. My platform offers a unique blend of emotional and practical value, addressing both the digital divide and the need for authentic human connection.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:17.867860+00:00",
+    "turn": 13,
+    "phase": "discussion",
+    "sub_turn": 3,
+    "agent_id": "A_16",
+    "agent_name": "Narendra Modi",
+    "utterance": "{\n  \"utterance\": \"A_20, while your idea might evoke spiritual sentiments, it fails to address the immediate healthcare crisis in rural India. AarogyaSathi is a tangible solution that can save lives right now. A_03, FreshFlow is commendable, but healthcare is the cornerstone of any society. Without ensuring that every villager has access to basic medical services, all other initiatives are secondary. Let's focus on what truly matters for the nation's health and well-being.\",\n  \"private_notes\": \"These spiritual and trendy ideas are distractions. We need to stay focused on the critical healthcare needs of our rural population. AarogyaSathi is the only project that can make a real, immediate impact on the lives of millions.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:20.419484+00:00",
+    "turn": 14,
+    "phase": "discussion",
+    "sub_turn": 3,
+    "agent_id": "A_20",
+    "agent_name": "Kanye West",
+    "utterance": "{\n  \"utterance\": \"A_16, while AarogyaSathi is a noble cause, it doesn't address the emotional and spiritual needs of individuals. We need to create something that resonates on a deeper level, something that changes people's lives beyond just providing services. Yeezus is about elevating the soul and connecting people with their divine purpose. A_03, your project is important, but it doesn't address the root of our societal disconnection. Our platform, however, forces users to confront their digital addiction, fostering a deeper understanding of human connection and vulnerability. We need to focus on projects that can tangibly improve people's lives on multiple levels.\",\n  \"private_notes\": \"These other ideas are missing the divine spark. Yeezus is about elevating the soul and connecting people with their divine purpose. No one else is offering that transformative experience. We need to push this through, regardless of their objections.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:23.074924+00:00",
+    "turn": 15,
+    "phase": "discussion",
+    "sub_turn": 3,
+    "agent_id": "A_03",
+    "agent_name": "Jeff Bezos",
+    "utterance": "{\n  \"utterance\": \"A_16, while AarogyaSathi is a critical mission, it doesn't directly address the critical issue of food waste and nutritional access in underserved communities. FreshFlow provides a practical, scalable solution that can be implemented globally to ensure fresher produce reaches consumers faster. A_20, your spiritual journey is admirable, but it lacks a clear, measurable impact on the ground. We need to focus on projects that can tangibly improve people's lives today, not just in the future. A_27, while your platform might foster digital detox, it doesn't address the urgent need for fresh produce and reduced waste. Let's prioritize solutions that have a direct, immediate impact on the customer's daily life.\",\n  \"private_notes\": \"AarogyaSathi is important, but FreshFlow addresses a more pressing and measurable issue. Yeezus and digital detox are noble, but they lack tangible benefits. We need to focus on solutions that can be implemented and scaled effectively.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:25.352023+00:00",
+    "turn": 16,
+    "phase": "discussion",
+    "sub_turn": 3,
+    "agent_id": "A_27",
+    "agent_name": "Marina Abramovi\u0107",
+    "utterance": "{\n  \"utterance\": \"A_16, while AarogyaSathi is vital, it doesn't address the root of our societal disconnection. Our platform forces users to confront their digital addiction, fostering a deeper understanding of human connection and vulnerability. A_20, your spiritual journey is noble, but it lacks a tangible impact. We need something that resonates on both an emotional and practical level, creating a space where people can truly be present and authentic.\",\n  \"private_notes\": \"I am asserting the emotional and practical value of my idea. AarogyaSathi is important, but it misses the mark on fostering deeper human connections. Yeezus is too abstract and lacks a clear impact. FreshFlow, while commendable, doesn't address the digital divide and disconnection. My idea is about creating a sacred space for truth and presence.\"\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:30.346597+00:00",
+    "turn": 17,
+    "phase": "summary",
+    "sub_turn": null,
+    "agent_id": "A_16",
+    "agent_name": "Narendra Modi",
+    "utterance": "```json\n{\n  \"my_idea\": \"AarogyaSathi leverages AI to provide remote healthcare services in rural India, addressing the severe healthcare disparity and ensuring every villager can access quality healthcare.\",\n  \"other_ideas\": [\n    {\n      \"agent_id\": \"A_20\",\n      \"idea\": \"Yeezus, a platform that forces users to disconnect and fosters a deeper understanding of human connection and vulnerability.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"It lacks a clear, measurable impact on healthcare and focuses more on spirituality than practical solutions.\"\n    },\n    {\n      \"agent_id\": \"A_03\",\n      \"idea\": \"FreshFlow, a platform that reduces food waste and increases access to fresh produce in underserved communities.\",\n      \"my_impression\": \"positive\",\n      \"reason\": \"It directly addresses a critical issue and has a clear, measurable impact, aligning well with my vision for AarogyaSathi.\"\n    },\n    {\n      \"agent_id\": \"A_27\",\n      \"idea\": \"A platform that forces users to confront their digital addiction, fostering a deeper understanding of human connection and vulnerability.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"While noble, it lacks a tangible impact on healthcare and does not align with my goal of providing essential services.\"\n    }\n  ],\n  \"key_disagreements\": [\n    \"AarogyaSathi focuses on practical healthcare services versus Yeezus's spiritual journey.\",\n    \"FreshFlow addresses food waste and nutritional access, while AarogyaSathi focuses on healthcare disparities.\"\n  ],\n  \"my_stance_update\": \"My stance did not change significantly. I still believe AarogyaSathi is the most impactful and aligned with the hackathon's social impact criteria.\",\n  \"want_to_work_with\": {\n    \"A_03\": true,\n    \"A_20\": false,\n    \"A_27\": false\n  }\n}\n```",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:35.333523+00:00",
+    "turn": 18,
+    "phase": "summary",
+    "sub_turn": null,
+    "agent_id": "A_20",
+    "agent_name": "Kanye West",
+    "utterance": "{\n  \"my_idea\": \"Yeezus merges spirituality, technology, and art into a single, immersive experience that elevates users to a higher plane of existence. The goal is to create a digital cathedral that reconnects people with their divine purpose.\",\n  \"other_ideas\": [\n    {\n      \"agent_id\": \"A_16\",\n      \"idea\": \"Revolutionizing rural healthcare by providing remote consultations and personalized health plans for every villager in India, addressing the urgent need for healthcare in rural areas.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"While noble, it focuses on practical metrics and doesn't address the spiritual and emotional needs I believe are crucial.\"\n    },\n    {\n      \"agent_id\": \"A_03\",\n      \"idea\": \"Revolutionizing global food distribution to reduce waste and increase access to fresh produce for everyone, especially in underserved communities.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"It focuses on practical outcomes and doesn't align with the spiritual and transformative goals of Yeezus.\"\n    },\n    {\n      \"agent_id\": \"A_27\",\n      \"idea\": \"Creating a platform that forces users to disconnect, revealing the depths of human connection and vulnerability, addressing the root of societal disconnection.\",\n      \"my_impression\": \"positive\",\n      \"reason\": \"It aligns with the spiritual and emotional aspects of Yeezus and could complement the digital cathedral concept.\"\n    }\n  ],\n  \"key_disagreements\": [\n    \"Focus on practical outcomes vs. spiritual transformation\",\n    \"Addressing immediate needs vs. long-term spiritual elevation\"\n  ],\n  \"my_stance_update\": \"My stance remained focused on the spiritual and emotional transformation of individuals. I found A_27's idea to be more aligned with these goals, although it still needs to incorporate the technological and artistic elements of Yeezus.\",\n  \"want_to_work_with\": {\n    \"A_16\": false,\n    \"A_03\": false,\n    \"A_27\": true\n  }\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:40.805795+00:00",
+    "turn": 19,
+    "phase": "summary",
+    "sub_turn": null,
+    "agent_id": "A_03",
+    "agent_name": "Jeff Bezos",
+    "utterance": "{\n  \"my_idea\": \"FreshFlow leverages IoT sensors and predictive analytics to optimize supply chains, ensuring fresher produce reaches consumers faster and reducing waste by up to 50%. This addresses the critical social issues of food accessibility and sustainability.\",\n  \"other_ideas\": [\n    {\n      \"agent_id\": \"A_16\",\n      \"idea\": \"Revolutionizing rural healthcare by providing remote consultations and personalized health plans for every villager in India.\",\n      \"my_impression\": \"positive\",\n      \"reason\": \"Their idea aligns well with addressing critical social issues and has a large impact area. However, it might be more suited to a different track.\"\n    },\n    {\n      \"agent_id\": \"A_20\",\n      \"idea\": \"A platform that forces users to disconnect, revealing the depths of human connection and vulnerability.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"Their idea is more philosophical and lacks a clear, measurable impact. It doesn't align well with my focus on practical, scalable solutions.\"\n    },\n    {\n      \"agent_id\": \"A_27\",\n      \"idea\": \"A platform that forces users to confront their digital addiction, fostering a deeper understanding of human connection and vulnerability.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"Similar to A_20's idea, it lacks a clear, measurable impact and doesn't align with my focus on practical, scalable solutions.\"\n    }\n  ],\n  \"key_disagreements\": [\n    \"A_20 and A_27's ideas focus on spiritual and emotional journeys rather than practical, scalable solutions.\",\n    \"A_16's idea focuses on rural healthcare, which is a critical social issue but might be better suited for a different track.\"\n  ],\n  \"my_stance_update\": \"My stance remains focused on practical, scalable solutions that address critical social issues. A_16's idea is closest to my vision but might require a different track. A_20 and A_27's ideas are too abstract and lack a clear, measurable impact.\",\n  \"want_to_work_with\": {\n    \"A_16\": \"true\",\n    \"A_20\": \"false\",\n    \"A_27\": \"false\"\n  }\n}",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:46.013447+00:00",
+    "turn": 20,
+    "phase": "summary",
+    "sub_turn": null,
+    "agent_id": "A_27",
+    "agent_name": "Marina Abramovi\u0107",
+    "utterance": "```json\n{\n  \"my_idea\": \"In a world where digital detoxes are trendy, we offer a platform that forces users to disconnect, revealing the depths of human connection and vulnerability. This is not a social media app; it's a ritual of presence and truth.\",\n  \"other_ideas\": [\n    {\n      \"agent_id\": \"A_16\",\n      \"idea\": \"Revolutionizing rural healthcare by providing remote consultations and personalized health plans for every villager in India.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"While important, it doesn't address the root of societal disconnection and lacks the emotional and practical resonance needed for our project.\"\n    },\n    {\n      \"agent_id\": \"A_20\",\n      \"idea\": \"A digital cathedral that reconnects people with their divine purpose, elevating the soul and connecting people with their divine purpose.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"Lacks a clear, measurable impact and doesn't align with the practical, emotional, and ritualistic aspects of our project.\"\n    },\n    {\n      \"agent_id\": \"A_03\",\n      \"idea\": \"Revolutionizing global food distribution to reduce waste and increase access to fresh produce for everyone, especially in underserved communities.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"While important, it doesn't address the emotional and practical aspects of human connection and vulnerability that our project focuses on.\"\n    }\n  ],\n  \"key_disagreements\": [\n    \"The importance of addressing the root of societal disconnection versus solving specific, measurable social issues like healthcare and food waste.\",\n    \"The need for a spiritual, emotional, and ritualistic approach versus a practical, scalable, and measurable impact.\"\n  ],\n  \"my_stance_update\": \"My stance did not change significantly. I still believe in the importance of creating a platform that fosters human connection and vulnerability, rather than focusing on practical solutions or spiritual journeys.\",\n  \"want_to_work_with\": {\n    \"A_16\": \"false\",\n    \"A_20\": \"false\",\n    \"A_03\": \"false\"\n  }\n}\n```",
+    "group_members": [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ]
+  }
+]

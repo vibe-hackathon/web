@@ -1,0 +1,142 @@
+{
+  "team_id": "team_2",
+  "average_score": 5.81,
+  "dimension_averages": {
+    "innovation": 5.7,
+    "feasibility": 5.2,
+    "presentation": 7.0,
+    "teamwork": 5.8,
+    "track_fit": 5.7
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_2",
+      "overall_impression": "ConnectBridge shows potential to address a significant societal issue but lacks technical depth and a clear focus.",
+      "dimension_scores": {
+        "innovation": 5.0,
+        "feasibility": 5.5,
+        "presentation": 7.0,
+        "teamwork": 6.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear problem statement and vision for connecting homeless individuals with resources.",
+        "Effective use of Firebase and TensorFlow for backend management and real-time processing."
+      ],
+      "weaknesses": [
+        "Over-reliance on GPT-4 API without showing how it integrates into the platform's core functionality.",
+        "Lack of detailed technical architecture and performance metrics."
+      ],
+      "feedback": "While the concept is compelling, the team should focus more on the technical implementation details, such as how the custom ML model works and how it handles edge cases. Additionally, consider providing more concrete examples of how the platform will adapt to changing social service landscapes."
+    },
+    {
+      "team_id": "team_2",
+      "overall_impression": "ConnectBridge shows potential to address a significant social issue, but the execution and technical details need more refinement.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 6.5,
+        "presentation": 7.5,
+        "teamwork": 6.0,
+        "track_fit": 7.0
+      },
+      "strengths": [
+        "Clear problem statement and compelling vision for addressing homelessness.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Technical details and implementation strategies could be more robust, especially around data accuracy and system reliability."
+      ],
+      "feedback": "While the concept is innovative and the team has a strong vision, consider providing more concrete plans for handling data accuracy and system reliability. Incorporating real-time monitoring and observability practices would enhance the project's production-readiness."
+    },
+    {
+      "team_id": "team_2",
+      "overall_impression": "The concept of ConnectBridge is ambitious but lacks specificity in technical details and real-world application.",
+      "dimension_scores": {
+        "innovation": 4.0,
+        "feasibility": 4.0,
+        "presentation": 5.0,
+        "teamwork": 4.0,
+        "track_fit": 3.5
+      },
+      "strengths": [
+        "Clear and compelling presentation during the Q&A rounds",
+        "Good collaboration and complementary roles among team members"
+      ],
+      "weaknesses": [
+        "Lack of technical detail and specific implementation strategies",
+        "Over-reliance on AI without concrete plans for validation and accuracy"
+      ],
+      "feedback": "While the idea is innovative, the team should focus on providing more detailed technical plans and validation strategies. Ensure that the AI models are thoroughly tested and that there are clear measures in place to ensure data accuracy and system reliability."
+    },
+    {
+      "team_id": "team_2",
+      "overall_impression": "ConnectBridge shows promise in addressing a critical issue but lacks depth in execution and cultural sensitivity.",
+      "dimension_scores": {
+        "innovation": 5.5,
+        "feasibility": 5.0,
+        "presentation": 8.5,
+        "teamwork": 6.0,
+        "track_fit": 7.0
+      },
+      "strengths": [
+        "Clear problem statement and solution approach",
+        "Strong tech stack with relevant tools like TensorFlow and Firebase"
+      ],
+      "weaknesses": [
+        "Lack of detailed user research and cultural sensitivity considerations",
+        "Potential for high-demand scenarios not fully addressed in terms of scalability"
+      ],
+      "feedback": "While the concept is innovative and aligns well with the track, the team should focus more on user research and cultural sensitivity to ensure the recommendations are truly helpful and respectful. Additionally, consider a more robust plan for handling high-demand scenarios to ensure the system remains reliable under stress."
+    },
+    {
+      "team_id": "team_2",
+      "overall_impression": "ConnectBridge aims to address a significant societal issue with a promising approach, but lacks depth in technical execution and novelty.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 5.0,
+        "presentation": 7.0,
+        "teamwork": 7.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution",
+        "Strong team collaboration and complementary roles"
+      ],
+      "weaknesses": [
+        "Lack of technical novelty; using established tools like TensorFlow and Firebase",
+        "No detailed explanation of real-time resource matching mechanism beyond general statements"
+      ],
+      "feedback": "While your project tackles a critical issue, consider incorporating more innovative technical elements to stand out. Focus on detailing the real-time matching process and how your system will handle high-demand scenarios."
+    }
+  ],
+  "feedbacks": [
+    "While the concept is compelling, the team should focus more on the technical implementation details, such as how the custom ML model works and how it handles edge cases. Additionally, consider providing more concrete examples of how the platform will adapt to changing social service landscapes.",
+    "While the concept is innovative and the team has a strong vision, consider providing more concrete plans for handling data accuracy and system reliability. Incorporating real-time monitoring and observability practices would enhance the project's production-readiness.",
+    "While the idea is innovative, the team should focus on providing more detailed technical plans and validation strategies. Ensure that the AI models are thoroughly tested and that there are clear measures in place to ensure data accuracy and system reliability.",
+    "While the concept is innovative and aligns well with the track, the team should focus more on user research and cultural sensitivity to ensure the recommendations are truly helpful and respectful. Additionally, consider a more robust plan for handling high-demand scenarios to ensure the system remains reliable under stress.",
+    "While your project tackles a critical issue, consider incorporating more innovative technical elements to stand out. Focus on detailing the real-time matching process and how your system will handle high-demand scenarios."
+  ],
+  "strengths": [
+    "Clear problem statement and vision for connecting homeless individuals with resources.",
+    "Effective use of Firebase and TensorFlow for backend management and real-time processing.",
+    "Clear problem statement and compelling vision for addressing homelessness.",
+    "Strong team collaboration and complementary roles.",
+    "Clear and compelling presentation during the Q&A rounds",
+    "Good collaboration and complementary roles among team members",
+    "Clear problem statement and solution approach",
+    "Strong tech stack with relevant tools like TensorFlow and Firebase",
+    "Clear and compelling presentation of the problem and solution",
+    "Strong team collaboration and complementary roles"
+  ],
+  "weaknesses": [
+    "Over-reliance on GPT-4 API without showing how it integrates into the platform's core functionality.",
+    "Lack of detailed technical architecture and performance metrics.",
+    "Technical details and implementation strategies could be more robust, especially around data accuracy and system reliability.",
+    "Lack of technical detail and specific implementation strategies",
+    "Over-reliance on AI without concrete plans for validation and accuracy",
+    "Lack of detailed user research and cultural sensitivity considerations",
+    "Potential for high-demand scenarios not fully addressed in terms of scalability",
+    "Lack of technical novelty; using established tools like TensorFlow and Firebase",
+    "No detailed explanation of real-time resource matching mechanism beyond general statements"
+  ]
+}

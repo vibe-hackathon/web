@@ -1,0 +1,136 @@
+{
+  "team_id": "team_7",
+  "average_score": 6.88,
+  "dimension_averages": {
+    "innovation": 6.7,
+    "feasibility": 6.0,
+    "presentation": 8.0,
+    "teamwork": 7.0,
+    "track_fit": 7.0
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_7",
+      "overall_impression": "FreshFlow addresses an important problem with a solid tech stack and clear vision, but lacks novelty and depth in its approach.",
+      "dimension_scores": {
+        "innovation": 6.0,
+        "feasibility": 7.5,
+        "presentation": 7.5,
+        "teamwork": 8.0,
+        "track_fit": 7.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Robust tech stack and strong team collaboration."
+      ],
+      "weaknesses": [
+        "Lacks novel or unique approaches to solving the problem, relying heavily on existing AWS services."
+      ],
+      "feedback": "While FreshFlow is well-executed and addresses a critical issue, consider incorporating more innovative elements such as custom algorithms or protocols to stand out. Also, explore ways to further enhance fault tolerance and scalability beyond AWS services alone."
+    },
+    {
+      "team_id": "team_7",
+      "overall_impression": "FreshFlow addresses an important problem with innovative technology but lacks depth in technical details and practical execution.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 6.5,
+        "presentation": 7.5,
+        "teamwork": 7.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Lack of detailed technical implementation and potential failure modes."
+      ],
+      "feedback": "While FreshFlow presents a compelling solution, the team should focus more on the technical details of their implementation, such as how they handle sensor failures and ensure data integrity. Additionally, consider adding more specific examples of how your system will handle edge cases and improve food accessibility in underserved communities."
+    },
+    {
+      "team_id": "team_7",
+      "overall_impression": "FreshFlow presents an innovative approach to optimizing supply chains, but the execution and technical details need refinement.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 6.0,
+        "presentation": 8.0,
+        "teamwork": 7.0,
+        "track_fit": 6.5
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Lack of specific technical details and measurable outcomes in the demo pitch."
+      ],
+      "feedback": "While the concept is promising, consider adding more technical depth, such as latency numbers and specific use cases. This will help demonstrate the feasibility and robustness of your solution."
+    },
+    {
+      "team_id": "team_7",
+      "overall_impression": "FreshFlow presents a promising solution to reduce food waste through innovative use of IoT and predictive analytics, but the execution and feasibility need significant refinement.",
+      "dimension_scores": {
+        "innovation": 6.5,
+        "feasibility": 3.0,
+        "presentation": 9.5,
+        "teamwork": 6.0,
+        "track_fit": 7.0
+      },
+      "strengths": [
+        "Clear and compelling problem statement and solution approach",
+        "Strong team collaboration and complementary roles"
+      ],
+      "weaknesses": [
+        "Lack of detailed technical feasibility and implementation plan",
+        "Insufficient evidence of real-world applicability and user impact"
+      ],
+      "feedback": "While the concept is innovative and well-presented, the team should focus on providing more concrete details on how the technology will be implemented and scaled. Additionally, consider involving small-scale farmers in your user research to better understand their needs and challenges."
+    },
+    {
+      "team_id": "team_7",
+      "overall_impression": "FreshFlow addresses a significant global issue with a technically sound approach, but lacks the interdisciplinary and novel elements that would elevate it.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 7.0,
+        "presentation": 7.5,
+        "teamwork": 7.0,
+        "track_fit": 8.5
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Robust technical stack and strong team collaboration."
+      ],
+      "weaknesses": [
+        "Lacks the interdisciplinary and novel elements that would make it stand out in the hackathon."
+      ],
+      "feedback": "While FreshFlow is a solid solution, consider integrating more innovative technologies or approaches to enhance its uniqueness. Explore how edge computing or AI-driven insights could further optimize your solution and align with the cutting-edge nature of the hackathon."
+    }
+  ],
+  "feedbacks": [
+    "While FreshFlow is well-executed and addresses a critical issue, consider incorporating more innovative elements such as custom algorithms or protocols to stand out. Also, explore ways to further enhance fault tolerance and scalability beyond AWS services alone.",
+    "While FreshFlow presents a compelling solution, the team should focus more on the technical details of their implementation, such as how they handle sensor failures and ensure data integrity. Additionally, consider adding more specific examples of how your system will handle edge cases and improve food accessibility in underserved communities.",
+    "While the concept is promising, consider adding more technical depth, such as latency numbers and specific use cases. This will help demonstrate the feasibility and robustness of your solution.",
+    "While the concept is innovative and well-presented, the team should focus on providing more concrete details on how the technology will be implemented and scaled. Additionally, consider involving small-scale farmers in your user research to better understand their needs and challenges.",
+    "While FreshFlow is a solid solution, consider integrating more innovative technologies or approaches to enhance its uniqueness. Explore how edge computing or AI-driven insights could further optimize your solution and align with the cutting-edge nature of the hackathon."
+  ],
+  "strengths": [
+    "Clear and compelling presentation of the problem and solution.",
+    "Robust tech stack and strong team collaboration.",
+    "Clear and compelling presentation of the problem and solution.",
+    "Strong team collaboration and complementary roles.",
+    "Clear and compelling presentation of the problem and solution.",
+    "Strong team collaboration and complementary roles.",
+    "Clear and compelling problem statement and solution approach",
+    "Strong team collaboration and complementary roles",
+    "Clear and compelling presentation of the problem and solution.",
+    "Robust technical stack and strong team collaboration."
+  ],
+  "weaknesses": [
+    "Lacks novel or unique approaches to solving the problem, relying heavily on existing AWS services.",
+    "Lack of detailed technical implementation and potential failure modes.",
+    "Lack of specific technical details and measurable outcomes in the demo pitch.",
+    "Lack of detailed technical feasibility and implementation plan",
+    "Insufficient evidence of real-world applicability and user impact",
+    "Lacks the interdisciplinary and novel elements that would make it stand out in the hackathon."
+  ]
+}

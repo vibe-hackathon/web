@@ -1,0 +1,144 @@
+{
+  "team_id": "team_6",
+  "average_score": 5.85,
+  "dimension_averages": {
+    "innovation": 5.9,
+    "feasibility": 5.0,
+    "presentation": 7.2,
+    "teamwork": 6.3,
+    "track_fit": 5.4
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_6",
+      "overall_impression": "HabitHive presents an interesting concept but lacks technical depth and novelty.",
+      "dimension_scores": {
+        "innovation": 5.0,
+        "feasibility": 6.5,
+        "presentation": 6.0,
+        "teamwork": 5.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear and engaging pitch with a unique value proposition",
+        "Well-rounded team with diverse roles"
+      ],
+      "weaknesses": [
+        "Lacks technical depth and novel components, relying heavily on existing technologies like TensorFlow and React Native",
+        "No mention of fault tolerance or performance optimizations, which are critical for real-world applications"
+      ],
+      "feedback": "While the concept is compelling, consider integrating more innovative technical elements such as custom protocols or novel data structures. This will enhance both the feasibility and innovation scores. Additionally, focus on explaining how your solution handles scalability and performance."
+    },
+    {
+      "team_id": "team_6",
+      "overall_impression": "HabitHive presents an interesting concept but lacks depth in technical execution and ethical considerations.",
+      "dimension_scores": {
+        "innovation": 6.0,
+        "feasibility": 5.5,
+        "presentation": 6.5,
+        "teamwork": 7.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the project's vision and value proposition.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Lack of detailed technical feasibility, especially concerning AI and AR performance.",
+        "Insufficient discussion on failure modes and robustness of the system."
+      ],
+      "feedback": "While the concept is intriguing, the team should focus more on the technical feasibility of integrating AI and AR features. Ensure robust handling of failure modes and provide more details on how you will maintain user trust and prevent ethical issues."
+    },
+    {
+      "team_id": "team_6",
+      "overall_impression": "HabitHive presents an interesting concept but lacks depth in both innovation and feasibility.",
+      "dimension_scores": {
+        "innovation": 4.0,
+        "feasibility": 4.0,
+        "presentation": 6.0,
+        "teamwork": 5.0,
+        "track_fit": 4.5
+      },
+      "strengths": [
+        "The team has a clear and compelling pitch with engaging visuals and animations.",
+        "They have a solid understanding of their tech stack and have addressed some key concerns."
+      ],
+      "weaknesses": [
+        "The monetization model and ethical considerations need more detailed explanation and validation.",
+        "The technical feasibility, especially around AI and blockchain integration, seems ambitious given the hackathon timeframe."
+      ],
+      "feedback": "While the concept is intriguing, the team should focus on providing more concrete details about their technical approach and address potential ethical and scalability issues. This will help strengthen the feasibility and innovation of your project."
+    },
+    {
+      "team_id": "team_6",
+      "overall_impression": "HabitHive presents a unique concept with potential, but faces significant challenges in execution and feasibility.",
+      "dimension_scores": {
+        "innovation": 6.5,
+        "feasibility": 3.0,
+        "presentation": 9.5,
+        "teamwork": 7.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Clear and compelling pitch with a unique value proposition",
+        "Strong team collaboration and complementary roles"
+      ],
+      "weaknesses": [
+        "High technical complexity and potential for integration issues",
+        "Lack of concrete proof of concept or MVP"
+      ],
+      "feedback": "While the concept is innovative and the team has strong collaboration, the project requires a more detailed feasibility assessment and a clearer roadmap for implementation. Consider focusing on a simplified MVP to demonstrate core functionality."
+    },
+    {
+      "team_id": "team_6",
+      "overall_impression": "HabitHive presents a unique blend of habit tracking, AI, and blockchain, but the execution feels somewhat generic and lacks the interdisciplinary edge I value.",
+      "dimension_scores": {
+        "innovation": 8.0,
+        "feasibility": 6.0,
+        "presentation": 8.0,
+        "teamwork": 7.5,
+        "track_fit": 6.5
+      },
+      "strengths": [
+        "Clear and compelling presentation with a strong pitch",
+        "Well-rounded team with diverse skills"
+      ],
+      "weaknesses": [
+        "Lacks the interdisciplinary novelty I find exciting, such as combining habit tracking with physical or environmental factors",
+        "Feasibility concerns, particularly around real-time AI and blockchain integration"
+      ],
+      "feedback": "While your project has a solid foundation, consider integrating more innovative elements from other fields to enhance its uniqueness. Focus on addressing technical feasibility, especially around real-time AI and blockchain integration."
+    }
+  ],
+  "feedbacks": [
+    "While the concept is compelling, consider integrating more innovative technical elements such as custom protocols or novel data structures. This will enhance both the feasibility and innovation scores. Additionally, focus on explaining how your solution handles scalability and performance.",
+    "While the concept is intriguing, the team should focus more on the technical feasibility of integrating AI and AR features. Ensure robust handling of failure modes and provide more details on how you will maintain user trust and prevent ethical issues.",
+    "While the concept is intriguing, the team should focus on providing more concrete details about their technical approach and address potential ethical and scalability issues. This will help strengthen the feasibility and innovation of your project.",
+    "While the concept is innovative and the team has strong collaboration, the project requires a more detailed feasibility assessment and a clearer roadmap for implementation. Consider focusing on a simplified MVP to demonstrate core functionality.",
+    "While your project has a solid foundation, consider integrating more innovative elements from other fields to enhance its uniqueness. Focus on addressing technical feasibility, especially around real-time AI and blockchain integration."
+  ],
+  "strengths": [
+    "Clear and engaging pitch with a unique value proposition",
+    "Well-rounded team with diverse roles",
+    "Clear and compelling presentation of the project's vision and value proposition.",
+    "Strong team collaboration and complementary roles.",
+    "The team has a clear and compelling pitch with engaging visuals and animations.",
+    "They have a solid understanding of their tech stack and have addressed some key concerns.",
+    "Clear and compelling pitch with a unique value proposition",
+    "Strong team collaboration and complementary roles",
+    "Clear and compelling presentation with a strong pitch",
+    "Well-rounded team with diverse skills"
+  ],
+  "weaknesses": [
+    "Lacks technical depth and novel components, relying heavily on existing technologies like TensorFlow and React Native",
+    "No mention of fault tolerance or performance optimizations, which are critical for real-world applications",
+    "Lack of detailed technical feasibility, especially concerning AI and AR performance.",
+    "Insufficient discussion on failure modes and robustness of the system.",
+    "The monetization model and ethical considerations need more detailed explanation and validation.",
+    "The technical feasibility, especially around AI and blockchain integration, seems ambitious given the hackathon timeframe.",
+    "High technical complexity and potential for integration issues",
+    "Lack of concrete proof of concept or MVP",
+    "Lacks the interdisciplinary novelty I find exciting, such as combining habit tracking with physical or environmental factors",
+    "Feasibility concerns, particularly around real-time AI and blockchain integration"
+  ]
+}

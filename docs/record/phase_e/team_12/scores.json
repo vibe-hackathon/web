@@ -1,0 +1,146 @@
+{
+  "team_id": "team_12",
+  "average_score": 3.8,
+  "dimension_averages": {
+    "innovation": 3.9,
+    "feasibility": 2.8,
+    "presentation": 5.6,
+    "teamwork": 4.0,
+    "track_fit": 3.3
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_12",
+      "overall_impression": "VoiceBridge aims to address a significant societal issue with a combination of AI and blockchain, but the execution lacks technical depth and realism.",
+      "dimension_scores": {
+        "innovation": 3.0,
+        "feasibility": 1.5,
+        "presentation": 5.0,
+        "teamwork": 4.0,
+        "track_fit": 3.0
+      },
+      "strengths": [
+        "Strong team collaboration and diverse roles",
+        "Clear and engaging presentation with a compelling narrative"
+      ],
+      "weaknesses": [
+        "Overly ambitious tech stack without practical implementation details",
+        "Lack of technical depth and realistic feasibility in the hackathon context"
+      ],
+      "feedback": "While the concept is innovative, the team should focus on providing more concrete technical details and a more realistic implementation plan. Consider simplifying the tech stack and demonstrating a proof of concept for key features."
+    },
+    {
+      "team_id": "team_12",
+      "overall_impression": "The concept of VoiceBridge is intriguing but lacks depth in technical execution and real-world applicability.",
+      "dimension_scores": {
+        "innovation": 4.0,
+        "feasibility": 4.5,
+        "presentation": 6.5,
+        "teamwork": 5.0,
+        "track_fit": 3.0
+      },
+      "strengths": [
+        "The team has a strong vision and clear communication in presenting their project.",
+        "They have a good mix of roles and skills represented."
+      ],
+      "weaknesses": [
+        "The technical feasibility and real-world applicability of the project are questionable given the complexity involved.",
+        "Lack of detailed technical implementation and potential challenges were not adequately addressed."
+      ],
+      "feedback": "While the concept is compelling, the team should focus more on the technical feasibility and provide concrete examples of how they plan to address key challenges such as data security, sentiment analysis accuracy, and blockchain scalability. This would strengthen the project's overall credibility and fit within the Cybersecurity & Cloud track."
+    },
+    {
+      "team_id": "team_12",
+      "overall_impression": "The concept of VoiceBridge is intriguing but lacks practical implementation details, especially regarding the technical feasibility and ethical considerations.",
+      "dimension_scores": {
+        "innovation": 3.0,
+        "feasibility": 3.0,
+        "presentation": 4.0,
+        "teamwork": 3.0,
+        "track_fit": 2.5
+      },
+      "strengths": [
+        "The team has a strong vision and clear communication in presenting their idea.",
+        "The use of AI and blockchain shows a good understanding of current technologies."
+      ],
+      "weaknesses": [
+        "The technical feasibility and practical implementation details are lacking, making the project seem more theoretical.",
+        "Ethical AI practices and real-world use cases are not sufficiently addressed."
+      ],
+      "feedback": "While the concept is interesting, the team should focus more on the technical feasibility and provide concrete examples of how VoiceBridge could be implemented. Additionally, ensure that ethical considerations are thoroughly addressed to build trust with users."
+    },
+    {
+      "team_id": "team_12",
+      "overall_impression": "VoiceBridge presents an ambitious idea with potential impact, but faces significant challenges in execution and feasibility.",
+      "dimension_scores": {
+        "innovation": 5.5,
+        "feasibility": 3.0,
+        "presentation": 8.5,
+        "teamwork": 5.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Strong narrative and branding approach",
+        "Clear and compelling presentation during Q&A"
+      ],
+      "weaknesses": [
+        "Lack of concrete technical feasibility and real-world application",
+        "Overreliance on celebrity presenters without clear expertise in relevant fields"
+      ],
+      "feedback": "While the concept is innovative and has a strong narrative, the team needs to focus more on the technical feasibility of implementing AI-driven sentiment analysis and blockchain in a mobile-first design. Consider involving experts in these areas to strengthen your proposal."
+    },
+    {
+      "team_id": "team_12",
+      "overall_impression": "VoiceBridge presents an ambitious yet somewhat superficial idea with significant ethical and practical concerns.",
+      "dimension_scores": {
+        "innovation": 4.0,
+        "feasibility": 2.0,
+        "presentation": 4.0,
+        "teamwork": 3.0,
+        "track_fit": 2.0
+      },
+      "strengths": [
+        "Strong team collaboration and diverse skill sets",
+        "Clear and engaging presentation of the concept"
+      ],
+      "weaknesses": [
+        "Lack of depth in technical details and feasibility",
+        "Potential ethical issues with AI-driven sentiment analysis",
+        "Overemphasis on celebrity involvement rather than substance"
+      ],
+      "feedback": "While the team has a strong collaborative dynamic, VoiceBridge needs to address the ethical implications of AI-driven sentiment analysis and provide more concrete plans for implementation. Consider focusing on a more specific use case or region to enhance feasibility."
+    }
+  ],
+  "feedbacks": [
+    "While the concept is innovative, the team should focus on providing more concrete technical details and a more realistic implementation plan. Consider simplifying the tech stack and demonstrating a proof of concept for key features.",
+    "While the concept is compelling, the team should focus more on the technical feasibility and provide concrete examples of how they plan to address key challenges such as data security, sentiment analysis accuracy, and blockchain scalability. This would strengthen the project's overall credibility and fit within the Cybersecurity & Cloud track.",
+    "While the concept is interesting, the team should focus more on the technical feasibility and provide concrete examples of how VoiceBridge could be implemented. Additionally, ensure that ethical considerations are thoroughly addressed to build trust with users.",
+    "While the concept is innovative and has a strong narrative, the team needs to focus more on the technical feasibility of implementing AI-driven sentiment analysis and blockchain in a mobile-first design. Consider involving experts in these areas to strengthen your proposal.",
+    "While the team has a strong collaborative dynamic, VoiceBridge needs to address the ethical implications of AI-driven sentiment analysis and provide more concrete plans for implementation. Consider focusing on a more specific use case or region to enhance feasibility."
+  ],
+  "strengths": [
+    "Strong team collaboration and diverse roles",
+    "Clear and engaging presentation with a compelling narrative",
+    "The team has a strong vision and clear communication in presenting their project.",
+    "They have a good mix of roles and skills represented.",
+    "The team has a strong vision and clear communication in presenting their idea.",
+    "The use of AI and blockchain shows a good understanding of current technologies.",
+    "Strong narrative and branding approach",
+    "Clear and compelling presentation during Q&A",
+    "Strong team collaboration and diverse skill sets",
+    "Clear and engaging presentation of the concept"
+  ],
+  "weaknesses": [
+    "Overly ambitious tech stack without practical implementation details",
+    "Lack of technical depth and realistic feasibility in the hackathon context",
+    "The technical feasibility and real-world applicability of the project are questionable given the complexity involved.",
+    "Lack of detailed technical implementation and potential challenges were not adequately addressed.",
+    "The technical feasibility and practical implementation details are lacking, making the project seem more theoretical.",
+    "Ethical AI practices and real-world use cases are not sufficiently addressed.",
+    "Lack of concrete technical feasibility and real-world application",
+    "Overreliance on celebrity presenters without clear expertise in relevant fields",
+    "Lack of depth in technical details and feasibility",
+    "Potential ethical issues with AI-driven sentiment analysis",
+    "Overemphasis on celebrity involvement rather than substance"
+  ]
+}

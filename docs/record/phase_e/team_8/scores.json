@@ -1,0 +1,140 @@
+{
+  "team_id": "team_8",
+  "average_score": 7.01,
+  "dimension_averages": {
+    "innovation": 7.6,
+    "feasibility": 5.0,
+    "presentation": 8.2,
+    "teamwork": 7.7,
+    "track_fit": 6.9
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_8",
+      "overall_impression": "Radiocure shows promise in revolutionizing cancer treatment with precision radioisotope therapy, but lacks depth in technical details and financial sustainability.",
+      "dimension_scores": {
+        "innovation": 8.0,
+        "feasibility": 5.5,
+        "presentation": 8.0,
+        "teamwork": 7.0,
+        "track_fit": 7.0
+      },
+      "strengths": [
+        "Clear and compelling presentation with a strong focus on user experience and real-time treatment progress.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Lack of detailed technical depth, especially regarding model robustness and continuous monitoring strategies.",
+        "No clear financial sustainability or funding strategy mentioned."
+      ],
+      "feedback": "While the project is innovative and well-presented, it would benefit from more technical detail on how you handle model drift and ensure robustness. Additionally, consider elaborating on your funding and scaling plans to address long-term viability."
+    },
+    {
+      "team_id": "team_8",
+      "overall_impression": "Radiocure presents an innovative approach to precision radioisotope therapy, addressing a significant unmet need in cancer treatment.",
+      "dimension_scores": {
+        "innovation": 8.0,
+        "feasibility": 7.5,
+        "presentation": 8.5,
+        "teamwork": 8.0,
+        "track_fit": 7.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Feasibility concerns around building a fully functional precision radioisotope therapy system within a hackathon timeframe."
+      ],
+      "feedback": "While the concept is highly innovative and the team has done an excellent job presenting, the technical feasibility of building a fully functional precision radioisotope therapy system in a hackathon is challenging. Focus on key proof-of-concept elements and consider simplifying the scope to demonstrate core functionalities effectively."
+    },
+    {
+      "team_id": "team_8",
+      "overall_impression": "Radiocure presents an innovative approach to precision radioisotope therapy but faces significant challenges in feasibility and execution within a hackathon.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 3.0,
+        "presentation": 8.0,
+        "teamwork": 7.0,
+        "track_fit": 6.5
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Highly complex technical stack and ambitious scope make it unrealistic to build in a hackathon.",
+        "Lack of specific technical details and benchmarks for key features."
+      ],
+      "feedback": "While the concept is innovative, the team should focus on simplifying the technical approach and providing more concrete evidence of feasibility, such as latency benchmarks and security measures. This will help in demonstrating the practicality of your solution within the constraints of a hackathon."
+    },
+    {
+      "team_id": "team_8",
+      "overall_impression": "Radiocure presents a promising approach to precision radioisotope therapy, but the execution lacks depth in both innovation and feasibility.",
+      "dimension_scores": {
+        "innovation": 5.5,
+        "feasibility": 4.0,
+        "presentation": 8.5,
+        "teamwork": 8.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Well-defined roles within the team."
+      ],
+      "weaknesses": [
+        "Lack of detailed technical implementation for key features, especially in machine learning and backend.",
+        "Feasibility concerns given the complexity of the project and limited time in a hackathon."
+      ],
+      "feedback": "While the concept is innovative, the team needs to focus more on the technical details of implementing the machine learning models and ensuring the solution is feasible within the constraints of a hackathon. Consider providing more concrete examples of how you will handle real-time inference and patient data privacy."
+    },
+    {
+      "team_id": "team_8",
+      "overall_impression": "Radiocure presents a promising approach to precision radioisotope therapy, addressing a significant unmet need in cancer treatment.",
+      "dimension_scores": {
+        "innovation": 9.5,
+        "feasibility": 5.0,
+        "presentation": 8.0,
+        "teamwork": 8.5,
+        "track_fit": 8.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Feasibility concerns regarding the complexity of the project within a hackathon timeframe."
+      ],
+      "feedback": "While the concept is innovative and well-presented, the team should consider simplifying the scope for a hackathon environment or outline a more detailed roadmap for scaling the project. This will help ensure the project remains realistic and achievable within the given constraints."
+    }
+  ],
+  "feedbacks": [
+    "While the project is innovative and well-presented, it would benefit from more technical detail on how you handle model drift and ensure robustness. Additionally, consider elaborating on your funding and scaling plans to address long-term viability.",
+    "While the concept is highly innovative and the team has done an excellent job presenting, the technical feasibility of building a fully functional precision radioisotope therapy system in a hackathon is challenging. Focus on key proof-of-concept elements and consider simplifying the scope to demonstrate core functionalities effectively.",
+    "While the concept is innovative, the team should focus on simplifying the technical approach and providing more concrete evidence of feasibility, such as latency benchmarks and security measures. This will help in demonstrating the practicality of your solution within the constraints of a hackathon.",
+    "While the concept is innovative, the team needs to focus more on the technical details of implementing the machine learning models and ensuring the solution is feasible within the constraints of a hackathon. Consider providing more concrete examples of how you will handle real-time inference and patient data privacy.",
+    "While the concept is innovative and well-presented, the team should consider simplifying the scope for a hackathon environment or outline a more detailed roadmap for scaling the project. This will help ensure the project remains realistic and achievable within the given constraints."
+  ],
+  "strengths": [
+    "Clear and compelling presentation with a strong focus on user experience and real-time treatment progress.",
+    "Strong team collaboration and complementary roles.",
+    "Clear and compelling presentation of the problem and solution.",
+    "Strong team collaboration and complementary roles.",
+    "Clear and compelling presentation of the problem and solution.",
+    "Strong team collaboration and complementary roles.",
+    "Clear and compelling presentation of the problem and solution.",
+    "Well-defined roles within the team.",
+    "Clear and compelling presentation of the problem and solution.",
+    "Strong team collaboration and complementary roles."
+  ],
+  "weaknesses": [
+    "Lack of detailed technical depth, especially regarding model robustness and continuous monitoring strategies.",
+    "No clear financial sustainability or funding strategy mentioned.",
+    "Feasibility concerns around building a fully functional precision radioisotope therapy system within a hackathon timeframe.",
+    "Highly complex technical stack and ambitious scope make it unrealistic to build in a hackathon.",
+    "Lack of specific technical details and benchmarks for key features.",
+    "Lack of detailed technical implementation for key features, especially in machine learning and backend.",
+    "Feasibility concerns given the complexity of the project and limited time in a hackathon.",
+    "Feasibility concerns regarding the complexity of the project within a hackathon timeframe."
+  ]
+}

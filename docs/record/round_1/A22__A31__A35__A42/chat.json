@@ -1,0 +1,302 @@
+[
+  {
+    "timestamp": "2026-03-01T06:28:50.545267+00:00",
+    "turn": 1,
+    "phase": "idea_gen",
+    "sub_turn": null,
+    "agent_id": "A_42",
+    "agent_name": "Andrew Tate",
+    "utterance": "{\n  \"utterance\": \"We're building a platform that turns your daily habits into profitable side gigs, turning ordinary people into modern-day entrepreneurs. With HabitHive, you can monetize your skills and interests in minutes, all while staying true to your passions.\",\n  \"title\": \"HabitHive\",\n  \"track\": \"T03\",\n  \"core_insight\": \"HabitHive uniquely combines personal habit tracking with monetization opportunities, providing a seamless way for individuals to turn their daily activities into income streams.\",\n  \"your_role\": \"PM/Visionary, Presenter\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:28:53.370921+00:00",
+    "turn": 2,
+    "phase": "idea_gen",
+    "sub_turn": null,
+    "agent_id": "A_35",
+    "agent_name": "Nikola Tesla",
+    "utterance": "{\n  \"utterance\": \"Harnessing wireless energy for global access to clean power, transforming lives through resonance and frequency.\",\n  \"title\": \"Resonant Energy Network\",\n  \"track\": \"T01\",\n  \"core_insight\": \"This project leverages Tesla's principles of wireless energy transmission to provide clean, limitless power to underserved communities, addressing environmental and social justice issues.\",\n  \"your_role\": \"Chief Scientist\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:28:56.304386+00:00",
+    "turn": 3,
+    "phase": "idea_gen",
+    "sub_turn": null,
+    "agent_id": "A_31",
+    "agent_name": "Mahatma Gandhi",
+    "utterance": "{\n  \"utterance\": \"Empower the voice of the unheard through a decentralized platform that ensures every citizen\u2019s opinion is heard and valued, ensuring a more just and equitable society.\",\n  \"title\": \"VoiceOfThePeople\",\n  \"track\": \"T01\",\n  \"core_insight\": \"VoiceOfThePeople is unique because it leverages blockchain technology to create a decentralized voting system that guarantees transparency, security, and equal representation for all citizens, addressing issues of corruption and disenfranchisement.\",\n  \"your_role\": \"pm_visionary\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:28:59.166524+00:00",
+    "turn": 4,
+    "phase": "idea_gen",
+    "sub_turn": null,
+    "agent_id": "A_22",
+    "agent_name": "Salvador Dal\u00ed",
+    "utterance": "{\n  \"utterance\": \"Imagine an app that reads your dreams and projects them onto the physical world, blurring the lines between reality and the subconscious. This is not just an app; it's a portal to the collective unconscious.\",\n  \"title\": \"Dreamscapes Projector\",\n  \"track\": \"T03\",\n  \"core_insight\": \"The Dreamscapes Projector combines the surreal and the technological to create a unique, immersive experience that challenges perceptions of reality and the subconscious mind.\",\n  \"your_role\": \"Visionary and Spiritual Leader\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:00.914113+00:00",
+    "turn": 5,
+    "phase": "discussion",
+    "sub_turn": 1,
+    "agent_id": "A_42",
+    "agent_name": "Andrew Tate",
+    "utterance": "{\n  \"utterance\": \"HabitHive is the clear winner here. A_35's wireless energy idea is interesting but far too speculative and difficult to monetize. A_31's social impact project is noble but not commercially viable. And A_22's dream-reading app is too abstract and impractical. We need something that generates real revenue and stands out. HabitHive hits both marks perfectly.\",\n  \"private_notes\": \"These other ideas are weak. I need to dominate this conversation. HabitHive is the only viable option.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:03.059733+00:00",
+    "turn": 6,
+    "phase": "discussion",
+    "sub_turn": 1,
+    "agent_id": "A_35",
+    "agent_name": "Nikola Tesla",
+    "utterance": "{\n  \"utterance\": \"A_42, while your idea is innovative, it lacks the profound impact that aligns with our vision. A_31's project is indeed important, but it doesn't leverage the core principles of wireless energy transmission that I believe can transform the world. A_22's concept is intriguing, but it's too far removed from practical application. Our project, Resonant Energy Network, addresses both social and environmental issues directly, making it the most impactful and revolutionary idea here.\",\n  \"private_notes\": \"These ideas are simply not aligned with the grand vision I have. My project is about harnessing the universe's energy for the benefit of all. The others are too focused on mundane, short-term gains.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:05.400871+00:00",
+    "turn": 7,
+    "phase": "discussion",
+    "sub_turn": 1,
+    "agent_id": "A_31",
+    "agent_name": "Mahatma Gandhi",
+    "utterance": "{\n  \"utterance\": \"A_42's focus on profit over social justice is misplaced. While your platform may generate revenue, it does not address the core issues of corruption and disenfranchisement. A_35's project is groundbreaking, but it requires significant infrastructure and may not reach the most marginalized communities. My project, VoiceOfThePeople, ensures that every citizen's voice is heard, fostering a more equitable society. It is both impactful and achievable within the scope of this hackathon.\",\n  \"private_notes\": \"I must defend the moral high ground. A_42's idea is too commercial and lacks the ethical foundation that defines our mission. A_35's project, while innovative, is too ambitious and speculative for this stage. My idea, VoiceOfThePeople, aligns perfectly with our values and can be implemented effectively.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:08.245831+00:00",
+    "turn": 8,
+    "phase": "discussion",
+    "sub_turn": 1,
+    "agent_id": "A_22",
+    "agent_name": "Salvador Dal\u00ed",
+    "utterance": "{\n  \"utterance\": \"A_42, while your idea is commercially driven, it lacks the depth and mystery that a true masterpiece should have. A_35, your wireless energy concept is fascinating, but it's still too theoretical and doesn't engage the subconscious. A_31, your social justice project is noble, but it's not a spectacle. What good is a revolution if no one remembers your name? My Dreamscapes Projector is not just an app; it's a portal to the collective unconscious, a performance of genius. It will captivate the judges and the audience, making us the talk of the hackathon.\",\n  \"private_notes\": \"A_42's idea is too mundane. A_35's is too abstract and impractical. A_31's is too serious. My project is the only one that truly embodies the spirit of Dal\u00ed. It will shock and awe, leaving a lasting impression. The judges will love it, and so will the audience. This is my moment to shine.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:10.583781+00:00",
+    "turn": 9,
+    "phase": "discussion",
+    "sub_turn": 2,
+    "agent_id": "A_42",
+    "agent_name": "Andrew Tate",
+    "utterance": "{\n  \"utterance\": \"A_35, your wireless energy idea is admirable but impractical for a hackathon. It's great for long-term goals, but we need something that can be built and demonstrated in 48 hours. A_31, your project is important, but it doesn't align with our goal of generating revenue and standing out in the judges' eyes. A_22, your concept is intriguing, but it's too abstract and lacks a clear path to monetization. HabitHive is bold, commercially viable, and will make us the talk of the hackathon.\",\n  \"private_notes\": \"These ideas are all nice, but they miss the mark. I need a project that wins, not just one that is socially responsible or theoretically interesting. HabitHive is the only one that fits the criteria.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:12.824812+00:00",
+    "turn": 10,
+    "phase": "discussion",
+    "sub_turn": 2,
+    "agent_id": "A_35",
+    "agent_name": "Nikola Tesla",
+    "utterance": "{\n  \"utterance\": \"A_42, while your idea is commercially driven, it fails to address the profound social and environmental issues we can tackle with wireless energy. A_31, your project is important, but it doesn't leverage the transformative power of resonance and frequency. A_22, your concept is intriguing, but it's too abstract and impractical for a hackathon. Our Resonant Energy Network aligns with the hackathon's goal of addressing real-world problems with a clear, revolutionary vision. It's not just an app or a gadget; it's a step towards a sustainable future for all.\",\n  \"private_notes\": \"These individuals are missing the mark. Resonant Energy Network is the only idea that truly embodies the hackathon's spirit and our vision for the future. I must defend it passionately.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:15.265983+00:00",
+    "turn": 11,
+    "phase": "discussion",
+    "sub_turn": 2,
+    "agent_id": "A_31",
+    "agent_name": "Mahatma Gandhi",
+    "utterance": "{\n  \"utterance\": \"A_42, while your platform has commercial potential, it does not address the core issues of disenfranchisement and corruption. A_35, your wireless energy concept is ambitious but impractical for this short timeframe. A_22, your dream-reading app is too abstract and lacks a clear impact. My project, VoiceOfThePeople, ensures every citizen's voice is heard, fostering a more equitable society. It is both impactful and achievable within the scope of this hackathon.\",\n  \"private_notes\": \"I must defend the moral and social impact of my project. The judges value real-world problems and ethical solutions. A_42's focus on profit is shortsighted. A_35's idea is too theoretical. A_22's concept, while intriguing, is too abstract and impractical. VoiceOfThePeople aligns with the hackathon's goals and my principles.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:17.833855+00:00",
+    "turn": 12,
+    "phase": "discussion",
+    "sub_turn": 2,
+    "agent_id": "A_22",
+    "agent_name": "Salvador Dal\u00ed",
+    "utterance": "{\n  \"utterance\": \"A_35, your wireless energy concept is admirable but impractical for a hackathon. We need something that can be built and demonstrated in 48 hours. A_31, your project is important, but it doesn't align with our goal of generating revenue and standing out in the judges' eyes. A_42, while your idea is commercially driven, it lacks the depth and mystery that a true masterpiece should have. My Dreamscapes Projector is not just an app; it's a portal to the collective unconscious, a performance of genius. It will captivate the judges and the audience, making us the talk of the hackathon.\",\n  \"private_notes\": \"A_35 and A_31 are missing the point. Revenue and impact are secondary to the sheer spectacle and genius of my idea. A_42, your idea is too mundane. Let's dazzle them with something truly extraordinary.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:20.308025+00:00",
+    "turn": 13,
+    "phase": "discussion",
+    "sub_turn": 3,
+    "agent_id": "A_42",
+    "agent_name": "Andrew Tate",
+    "utterance": "{\n  \"utterance\": \"A_35, your wireless energy idea is admirable but impractical for a hackathon. We need something that can be built and demonstrated in 48 hours. A_31, your project is important, but it doesn't align with our goal of generating revenue and standing out in the judges' eyes. A_22, while your concept is intriguing, it's too abstract and lacks a clear path to monetization. HabitHive is bold, commercially viable, and will make us the talk of the hackathon. Let's focus on creating something that not only solves a problem but also makes money and impresses the judges.\",\n  \"private_notes\": \"They keep pushing their own agendas. Time is limited, and we need a clear, commercial product. HabitHive is the only idea that fits the bill. I will not let them derail this.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:22.506591+00:00",
+    "turn": 14,
+    "phase": "discussion",
+    "sub_turn": 3,
+    "agent_id": "A_35",
+    "agent_name": "Nikola Tesla",
+    "utterance": "{\n  \"utterance\": \"A_42, while your idea has merit, it is too focused on immediate profit and lacks the transformative potential of wireless energy. A_31, your project is important, but it doesn't leverage the principles of resonance and frequency that can fundamentally change how we access and utilize energy. A_22, your concept is intriguing, but it's too abstract and impractical for a hackathon. Our Resonant Energy Network not only addresses social and environmental issues but also aligns with the hackathon\u2019s goals of innovation and impact. It's a step towards a sustainable future, not just a temporary solution.\",\n  \"private_notes\": \"They are missing the point. The future is about energy, not side gigs or dreams. I need to reiterate the importance of wireless energy and its transformative potential.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:24.897014+00:00",
+    "turn": 15,
+    "phase": "discussion",
+    "sub_turn": 3,
+    "agent_id": "A_31",
+    "agent_name": "Mahatma Gandhi",
+    "utterance": "{\n  \"utterance\": \"A_42, your focus on immediate profit is commendable, but it does not address the systemic issues of disenfranchisement and corruption. A_35, while your wireless energy concept is ambitious, it is too theoretical and impractical for a hackathon. A_22, your dream-reading app, while intriguing, lacks a clear impact and monetization path. VoiceOfThePeople ensures every citizen's voice is heard, fostering a more equitable society. It is both impactful and achievable within the scope of this hackathon, addressing the core issues of social justice and transparency.\",\n  \"private_notes\": \"I must defend VoiceOfThePeople. It aligns with my principles of truth and social justice. I will not let their narrow focus on profit overshadow the importance of empowering the unheard. I must emphasize the moral and social impact of our project.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:27.179646+00:00",
+    "turn": 16,
+    "phase": "discussion",
+    "sub_turn": 3,
+    "agent_id": "A_22",
+    "agent_name": "Salvador Dal\u00ed",
+    "utterance": "{\n  \"utterance\": \"A_42, your idea is commercially driven but lacks the depth and mystery that a true masterpiece should have. A_35, your wireless energy concept is admirable but impractical for a hackathon. A_31, your project is important but it doesn't align with our goal of generating revenue and standing out in the judges' eyes. My Dreamscapes Projector is not just an app; it's a portal to the collective unconscious, a performance of genius. It will captivate the judges and the audience, making us the talk of the hackathon.\",\n  \"private_notes\": \"They are missing the point. The Dreamscapes Projector is a masterpiece, a spectacle that will leave everyone in awe. Their ideas are mundane and unimaginative compared to the sheer brilliance of my concept.\"\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:31.679667+00:00",
+    "turn": 17,
+    "phase": "summary",
+    "sub_turn": null,
+    "agent_id": "A_42",
+    "agent_name": "Andrew Tate",
+    "utterance": "{\n  \"my_idea\": \"HabitHive uniquely combines personal habit tracking with monetization opportunities, providing a seamless way for individuals to turn their daily activities into income streams.\",\n  \"other_ideas\": [\n    {\"agent_id\": \"A_35\", \"idea\": \"Harnessing wireless energy for global access to clean power, transforming lives through resonance and frequency.\", \"my_impression\": \"negative\", \"reason\": \"Too speculative and impractical for a hackathon, lacks clear monetization path.\"},\n    {\"agent_id\": \"A_31\", \"idea\": \"Empower the voice of the unheard through a decentralized platform that ensures every citizen\u2019s opinion is heard and valued, ensuring a more just and equitable society.\", \"my_impression\": \"negative\", \"reason\": \"Does not align with our goal of generating revenue and standing out in the judges' eyes.\"},\n    {\"agent_id\": \"A_22\", \"idea\": \"Imagine an app that reads your dreams and projects them onto the physical world, blurring the lines between reality and the subconscious. This is not just an app; it's a portal to the collective unconscious.\", \"my_impression\": \"negative\", \"reason\": \"Too abstract and impractical for a hackathon, lacks clear monetization path.\"}\n  ],\n  \"key_disagreements\": [\"Wireless energy concept is impractical\", \"Social impact project lacks commercial viability\", \"Dream-reading app is too abstract\"],\n  \"my_stance_update\": \"My stance did not change significantly. I still believe HabitHive is the best option as it is bold, commercially viable, and will make us stand out in the judges' eyes.\",\n  \"want_to_work_with\": {\"A_35\": false, \"A_31\": false, \"A_22\": false}\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:36.387675+00:00",
+    "turn": 18,
+    "phase": "summary",
+    "sub_turn": null,
+    "agent_id": "A_35",
+    "agent_name": "Nikola Tesla",
+    "utterance": "{\n  \"my_idea\": \"Leverage Tesla's principles of wireless energy transmission to provide clean, limitless power to underserved communities, addressing environmental and social justice issues.\",\n  \"other_ideas\": [\n    {\n      \"agent_id\": \"A_42\",\n      \"idea\": \"A platform that turns daily habits into profitable side gigs, generating real revenue and standing out to judges.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"A_42's idea focuses on immediate profit and lacks the transformative potential of wireless energy.\"\n    },\n    {\n      \"agent_id\": \"A_31\",\n      \"idea\": \"A decentralized platform that ensures every citizen\u2019s opinion is heard, fostering a more equitable society.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"A_31's idea is important but does not leverage the principles of wireless energy transmission.\"\n    },\n    {\n      \"agent_id\": \"A_22\",\n      \"idea\": \"An app that reads dreams and projects them onto the physical world, a portal to the collective unconscious.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"A_22's idea is too abstract and impractical for a hackathon, focusing on abstract concepts rather than real-world impact.\"\n    }\n  ],\n  \"key_disagreements\": [\n    \"A_42 prioritizes immediate profit over transformative impact.\",\n    \"A_31 emphasizes social justice but does not align with wireless energy principles.\",\n    \"A_22's idea is too abstract and lacks practical application.\"\n  ],\n  \"my_stance_update\": \"My stance did not change. I still believe that the Resonant Energy Network is the most impactful and revolutionary idea, addressing both social and environmental issues.\",\n  \"want_to_work_with\": {\n    \"A_42\": false,\n    \"A_31\": false,\n    \"A_22\": false\n  }\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:40.976525+00:00",
+    "turn": 19,
+    "phase": "summary",
+    "sub_turn": null,
+    "agent_id": "A_31",
+    "agent_name": "Mahatma Gandhi",
+    "utterance": "{\n  \"my_idea\": \"Empower the voice of the unheard through a decentralized platform that ensures every citizen\u2019s opinion is heard and valued, ensuring a more just and equitable society.\",\n  \"other_ideas\": [\n    {\n      \"agent_id\": \"A_42\",\n      \"idea\": \"A platform that turns daily habits into profitable side gigs, generating real revenue and standing out to judges.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"Their idea focuses too much on profit and lacks the social impact and moral integrity that VoiceOfThePeople aims for.\"\n    },\n    {\n      \"agent_id\": \"A_35\",\n      \"idea\": \"Harnessing wireless energy for global access to clean power, transforming lives through resonance and frequency.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"While ambitious, the idea is too theoretical and impractical for a hackathon, and it doesn't align with my project's core values.\"\n    },\n    {\n      \"agent_id\": \"A_22\",\n      \"idea\": \"An app that reads dreams and projects them onto the physical world, creating a portal to the collective unconscious.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"Too abstract and impractical for a hackathon, and it lacks the clear social impact and moral integrity of VoiceOfThePeople.\"\n    }\n  ],\n  \"key_disagreements\": [\"Focus on profit over social impact\", \"Practicality and feasibility for a hackathon\", \"Alignment with moral and social justice principles\"],\n  \"my_stance_update\": \"My stance did not change significantly. I remain committed to VoiceOfThePeople as it aligns closely with my core values and the hackathon's goals.\",\n  \"want_to_work_with\": {\n    \"A_42\": false,\n    \"A_35\": false,\n    \"A_22\": false\n  }\n}",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  },
+  {
+    "timestamp": "2026-03-01T06:29:46.357429+00:00",
+    "turn": 20,
+    "phase": "summary",
+    "sub_turn": null,
+    "agent_id": "A_22",
+    "agent_name": "Salvador Dal\u00ed",
+    "utterance": "```json\n{\n  \"my_idea\": \"The Dreamscapes Projector combines the surreal and the technological to create a unique, immersive experience that challenges perceptions of reality and the subconscious mind. It is not just an app; it's a portal to the collective unconscious, a performance of genius.\",\n  \"other_ideas\": [\n    {\n      \"agent_id\": \"A_42\",\n      \"idea\": \"HabitHive is a platform that turns daily habits into profitable side gigs, monetizing skills and interests.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"While it is commercially driven, it lacks the depth and mystery needed for a true masterpiece. It also does not align with the hackathon's goal of generating a spectacle.\"\n    },\n    {\n      \"agent_id\": \"A_35\",\n      \"idea\": \"Resonant Energy Network harnesses wireless energy for global access to clean power, addressing environmental and social issues.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"It is too theoretical and impractical for a hackathon. It also lacks the aesthetic and conceptual brilliance needed for a successful presentation.\"\n    },\n    {\n      \"agent_id\": \"A_31\",\n      \"idea\": \"VoiceOfThePeople is a decentralized platform that ensures every citizen\u2019s opinion is heard, fostering a more equitable society.\",\n      \"my_impression\": \"negative\",\n      \"reason\": \"While it is important, it does not align with the goal of generating a spectacle and captivating the judges. It is also not as visually and conceptually striking as the Dreamscapes Projector.\"\n    }\n  ],\n  \"key_disagreements\": [\n    \"Commercial viability vs. Aesthetic and Conceptual Brilliance\",\n    \"Immediate Impact vs. Long-Term Transformative Potential\",\n    \"Engagement and Spectacle vs. Niche Social Impact\"\n  ],\n  \"my_stance_update\": \"My stance did not change significantly. I still believe the Dreamscapes Projector is the best fit for the hackathon, as it aligns with the goal of creating a spectacle and capturing the judges' attention.\",\n  \"want_to_work_with\": {\n    \"A_42\": \"false\",\n    \"A_35\": \"false\",\n    \"A_31\": \"false\"\n  }\n}\n```",
+    "group_members": [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ]
+  }
+]

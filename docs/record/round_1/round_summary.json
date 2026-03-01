@@ -1,0 +1,1046 @@
+{
+  "timestamp": "2026-03-01T06:29:48.754012+00:00",
+  "round": 1,
+  "groups": [
+    [
+      "A_42",
+      "A_35",
+      "A_31",
+      "A_22"
+    ],
+    [
+      "A_29",
+      "A_38",
+      "A_19",
+      "A_44"
+    ],
+    [
+      "A_30",
+      "A_24",
+      "A_09",
+      "A_43"
+    ],
+    [
+      "A_10",
+      "A_39",
+      "A_34",
+      "A_00"
+    ],
+    [
+      "A_17",
+      "A_02",
+      "A_23",
+      "A_33"
+    ],
+    [
+      "A_40",
+      "A_15",
+      "A_01",
+      "A_11"
+    ],
+    [
+      "A_18",
+      "A_21",
+      "A_08",
+      "A_48"
+    ],
+    [
+      "A_14",
+      "A_41",
+      "A_04",
+      "A_25"
+    ],
+    [
+      "A_32",
+      "A_28",
+      "A_07",
+      "A_26"
+    ],
+    [
+      "A_16",
+      "A_20",
+      "A_03",
+      "A_27"
+    ],
+    [
+      "A_47",
+      "A_37",
+      "A_05",
+      "A_12"
+    ],
+    [
+      "A_49",
+      "A_13",
+      "A_46",
+      "A_45"
+    ],
+    [
+      "A_06",
+      "A_36"
+    ]
+  ],
+  "decisions": {
+    "A_42": {
+      "want_to_work_with": {
+        "A_35": false,
+        "A_31": false,
+        "A_22": false
+      }
+    },
+    "A_35": {
+      "want_to_work_with": {
+        "A_42": false,
+        "A_31": false,
+        "A_22": false
+      }
+    },
+    "A_31": {
+      "want_to_work_with": {
+        "A_42": false,
+        "A_35": false,
+        "A_22": false
+      }
+    },
+    "A_22": {
+      "want_to_work_with": {
+        "A_42": false,
+        "A_35": false,
+        "A_31": false
+      }
+    },
+    "A_29": {
+      "want_to_work_with": {
+        "A_38": false,
+        "A_19": false,
+        "A_44": false
+      }
+    },
+    "A_38": {
+      "want_to_work_with": {
+        "A_29": false,
+        "A_19": false,
+        "A_44": false
+      }
+    },
+    "A_19": {
+      "want_to_work_with": {
+        "A_29": true,
+        "A_38": false,
+        "A_44": true
+      }
+    },
+    "A_44": {
+      "want_to_work_with": {
+        "A_29": false,
+        "A_38": false,
+        "A_19": false
+      }
+    },
+    "A_30": {
+      "want_to_work_with": {
+        "A_24": false,
+        "A_09": false,
+        "A_43": false
+      }
+    },
+    "A_24": {
+      "want_to_work_with": {
+        "A_30": true,
+        "A_09": false,
+        "A_43": false
+      }
+    },
+    "A_09": {
+      "want_to_work_with": {
+        "A_30": false,
+        "A_24": false,
+        "A_43": false
+      }
+    },
+    "A_43": {
+      "want_to_work_with": {
+        "A_30": true,
+        "A_24": false,
+        "A_09": false
+      }
+    },
+    "A_10": {
+      "want_to_work_with": {
+        "A_39": false,
+        "A_34": false,
+        "A_00": true
+      }
+    },
+    "A_39": {
+      "want_to_work_with": {
+        "A_10": false,
+        "A_34": false,
+        "A_00": true
+      }
+    },
+    "A_34": {
+      "want_to_work_with": {
+        "A_10": false,
+        "A_39": false,
+        "A_00": false
+      }
+    },
+    "A_00": {
+      "want_to_work_with": {
+        "A_10": false,
+        "A_39": false,
+        "A_34": false
+      }
+    },
+    "A_17": {
+      "want_to_work_with": {
+        "A_02": false,
+        "A_23": false,
+        "A_33": false
+      }
+    },
+    "A_02": {
+      "want_to_work_with": {
+        "A_17": false,
+        "A_23": false,
+        "A_33": false
+      }
+    },
+    "A_23": {
+      "want_to_work_with": {
+        "A_17": false,
+        "A_02": false,
+        "A_33": false
+      }
+    },
+    "A_33": {
+      "want_to_work_with": {
+        "A_17": false,
+        "A_02": false,
+        "A_23": false
+      }
+    },
+    "A_40": {
+      "want_to_work_with": {
+        "A_15": false,
+        "A_01": false,
+        "A_11": false
+      }
+    },
+    "A_15": {
+      "want_to_work_with": {
+        "A_40": false,
+        "A_01": false,
+        "A_11": false
+      }
+    },
+    "A_01": {
+      "want_to_work_with": {
+        "A_15": true,
+        "A_40": false,
+        "A_11": false
+      }
+    },
+    "A_11": {
+      "want_to_work_with": {
+        "A_40": false,
+        "A_15": false,
+        "A_01": false
+      }
+    },
+    "A_18": {
+      "want_to_work_with": {
+        "A_21": false,
+        "A_08": false,
+        "A_48": false
+      }
+    },
+    "A_21": {
+      "want_to_work_with": {
+        "A_18": false,
+        "A_08": false,
+        "A_48": false
+      }
+    },
+    "A_08": {
+      "want_to_work_with": {
+        "A_18": true,
+        "A_21": false,
+        "A_48": false
+      }
+    },
+    "A_48": {
+      "want_to_work_with": {
+        "A_18": false,
+        "A_21": false,
+        "A_08": false
+      }
+    },
+    "A_14": {
+      "want_to_work_with": {
+        "A_41": true,
+        "A_04": false,
+        "A_25": false
+      }
+    },
+    "A_41": {
+      "want_to_work_with": {
+        "A_14": true,
+        "A_04": false,
+        "A_25": false
+      }
+    },
+    "A_04": {
+      "want_to_work_with": {
+        "A_14": false,
+        "A_41": false,
+        "A_25": false
+      }
+    },
+    "A_25": {
+      "want_to_work_with": {
+        "A_14": true,
+        "A_41": false,
+        "A_04": false
+      }
+    },
+    "A_32": {
+      "want_to_work_with": {
+        "A_28": false,
+        "A_07": false,
+        "A_26": false
+      }
+    },
+    "A_28": {
+      "want_to_work_with": {
+        "A_32": true,
+        "A_07": false,
+        "A_26": false
+      }
+    },
+    "A_07": {
+      "want_to_work_with": {
+        "A_32": true,
+        "A_28": false,
+        "A_26": false
+      }
+    },
+    "A_26": {
+      "want_to_work_with": {
+        "A_32": false,
+        "A_28": false,
+        "A_07": false
+      }
+    },
+    "A_16": {
+      "want_to_work_with": {
+        "A_03": true,
+        "A_20": false,
+        "A_27": false
+      }
+    },
+    "A_20": {
+      "want_to_work_with": {
+        "A_16": false,
+        "A_03": false,
+        "A_27": true
+      }
+    },
+    "A_03": {
+      "want_to_work_with": {
+        "A_16": true,
+        "A_20": false,
+        "A_27": false
+      }
+    },
+    "A_27": {
+      "want_to_work_with": {
+        "A_16": false,
+        "A_20": false,
+        "A_03": false
+      }
+    },
+    "A_47": {
+      "want_to_work_with": {
+        "A_05": true,
+        "A_37": false,
+        "A_12": false
+      }
+    },
+    "A_37": {
+      "want_to_work_with": {
+        "A_47": false,
+        "A_05": false,
+        "A_12": false
+      }
+    },
+    "A_05": {
+      "want_to_work_with": {
+        "A_47": true,
+        "A_37": false,
+        "A_12": false
+      }
+    },
+    "A_12": {
+      "want_to_work_with": {
+        "A_47": false,
+        "A_37": false,
+        "A_05": false
+      }
+    },
+    "A_49": {
+      "want_to_work_with": {
+        "A_13": true,
+        "A_46": true,
+        "A_45": true
+      }
+    },
+    "A_13": {
+      "want_to_work_with": {
+        "A_49": true,
+        "A_46": true,
+        "A_45": false
+      }
+    },
+    "A_46": {
+      "want_to_work_with": {
+        "A_49": true,
+        "A_13": false,
+        "A_45": false
+      }
+    },
+    "A_45": {
+      "want_to_work_with": {
+        "A_46": true,
+        "A_13": false
+      }
+    },
+    "A_06": {
+      "want_to_work_with": {
+        "A_36": true
+      }
+    },
+    "A_36": {
+      "want_to_work_with": {
+        "A_06": false
+      }
+    }
+  },
+  "agent_summaries": {
+    "A_00": {
+      "name": "Elon Musk",
+      "idea": "AirGuardian Drone Fleet (T01): Utilizing autonomous drones equipped with advanced sensors and cleaning technologies to provide real-time air quality monitoring and pollution mitigation, addressing environmental and health concerns in urban areas. \u2014 Role: Tech Lead",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Transforming urban air quality with a self-driving drone fleet that monitors and cleans pollution in real-time. This project addresses the immediate threat of pollution and its impact on public health.\nStance: My stance did not change significantly. I still believe that addressing the immediate threat of pollution and its impact on public health is the most critical and impactful goal for a hackathon project.\nImpressions: {\"A_10\": \"negative\", \"A_39\": \"negative\", \"A_34\": \"negative\"}\nWant to work with: {\"A_10\": false, \"A_39\": false, \"A_34\": false}\n",
+      "want_to_work_with": {
+        "A_10": false,
+        "A_39": false,
+        "A_34": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_01": {
+      "name": "Steve Jobs",
+      "idea": "EduGuru (T01): EduGuru uses AI to provide personalized learning paths, ensuring students receive tailored educational content that addresses their specific learning gaps and styles, thereby significantly improving educational outcomes. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Experience the future of education with a personalized learning assistant that adapts to your every need, ensuring no student is left behind in today's digital age.\nStance: My stance did not change significantly. EduGuru remains the most aligned with my vision of creating a transformative and impactful solution.\nImpressions: {\"A_40\": \"negative\", \"A_15\": \"positive\", \"A_11\": \"negative\"}\nWant to work with: {\"A_15\": true, \"A_40\": false, \"A_11\": false}\n",
+      "want_to_work_with": {
+        "A_15": true,
+        "A_40": false,
+        "A_11": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_02": {
+      "name": "Mark Zuckerberg",
+      "idea": "ConnectHealth (T01): ConnectHealth leverages AI to personalize mental health care, addressing the global shortage of mental health professionals and providing accessible, effective treatment options. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: ConnectHealth leverages AI to personalize mental health care, addressing the global shortage of mental health professionals and providing accessible, effective treatment options.\nStance: My stance did not change significantly. I still believe that addressing the global mental health crisis is the most impactful and scalable solution. However, I recognize the importance of finding a way to combine mental health care with broader societal benefits.\nImpressions: {\"A_17\": \"negative\", \"A_23\": \"negative\", \"A_33\": \"negative\"}\nWant to work with: {\"A_17\": false, \"A_23\": false, \"A_33\": false}\n",
+      "want_to_work_with": {
+        "A_17": false,
+        "A_23": false,
+        "A_33": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_03": {
+      "name": "Jeff Bezos",
+      "idea": "FreshFlow (T01): FreshFlow leverages IoT sensors and predictive analytics to optimize supply chains, ensuring fresher produce reaches consumers faster and reducing waste by up to 50%. This addresses the critical social issues of food accessibility and sustainability. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: FreshFlow leverages IoT sensors and predictive analytics to optimize supply chains, ensuring fresher produce reaches consumers faster and reducing waste by up to 50%. This addresses the critical social issues of food accessibility and sustainability.\nStance: My stance remains focused on practical, scalable solutions that address critical social issues. A_16's idea is closest to my vision but might require a different track. A_20 and A_27's ideas are too abstract and lack a clear, measurable impact.\nImpressions: {\"A_16\": \"positive\", \"A_20\": \"negative\", \"A_27\": \"negative\"}\nWant to work with: {\"A_16\": true, \"A_20\": false, \"A_27\": false}\n",
+      "want_to_work_with": {
+        "A_16": true,
+        "A_20": false,
+        "A_27": false
+      },
+      "status": "PARTIAL_TEAM"
+    },
+    "A_04": {
+      "name": "Travis Kalanick",
+      "idea": "ResourceConnect (T01): ResourceConnect leverages AI to provide personalized, real-time assistance, addressing the inefficiencies and gaps in current social service systems. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: We are building a platform that uses AI to connect homeless individuals with available resources in real-time, ensuring they never fall through the cracks again. The platform aims to address the immediate need and ensure sustainable growth.\nStance: My stance remains focused on the immediate and urgent need to connect homeless individuals with resources. The other ideas, while important, do not align with this primary goal and might dilute our efforts.\nImpressions: {\"A_14\": \"negative\", \"A_41\": \"negative\", \"A_25\": \"negative\"}\nWant to work with: {\"A_14\": false, \"A_41\": false, \"A_25\": false}\n",
+      "want_to_work_with": {
+        "A_14": false,
+        "A_41": false,
+        "A_25": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_05": {
+      "name": "Elizabeth Holmes",
+      "idea": "HealthGuard (T01): HealthGuard revolutionizes healthcare by empowering individuals with full control over their health data, ensuring privacy and accessibility. This addresses the critical social issue of patient data ownership and control, with a tangible impact metric of increased patient satisfaction and data accuracy. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: HealthGuard revolutionizes healthcare by empowering individuals with full control over their health data, ensuring privacy and accessibility. This addresses the critical social issue of patient data ownership and control, with a tangible impact metric of increased patient satisfaction and data accuracy.\nStance: My stance did not change significantly. HealthGuard remains the best fit for the Hackathon given its alignment with the social impact guidelines and practical application.\nImpressions: {\"A_47\": \"positive\", \"A_37\": \"negative\", \"A_12\": \"negative\"}\nWant to work with: {\"A_47\": true, \"A_37\": false, \"A_12\": false}\n",
+      "want_to_work_with": {
+        "A_47": true,
+        "A_37": false,
+        "A_12": false
+      },
+      "status": "PARTIAL_TEAM"
+    },
+    "A_06": {
+      "name": "Adam Neumann",
+      "idea": "GreenRoof Hub (T01): Our project uniquely combines sustainability, community engagement, and urban renewal, addressing environmental and social issues through a holistic, interactive approach. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Transform urban spaces into vibrant, sustainable hubs that foster community and well-being. Our project will create interactive, green rooftops that double as social gathering spots and produce local food, bridging the gap between nature and city life.\nStance: My stance remains focused on the broader impact and scalability of GreenRoof Hub. However, I recognize the importance of addressing immediate needs and am open to integrating elements of A_36's idea into the project.\nImpressions: {\"A_36\": \"positive\"}\nWant to work with: {\"A_36\": true}\n",
+      "want_to_work_with": {
+        "A_36": true
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_07": {
+      "name": "Peter Thiel",
+      "idea": "MentalHealthAI (T01): AI can provide personalized, accessible, and scalable mental health support, addressing the global shortage of mental health professionals. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Unlocking universal access to mental health care through AI-powered virtual therapists that adapt to individual needs, ensuring no one is left behind in the digital age.\nStance: My stance remained focused on the importance of addressing the global shortage of mental health professionals and providing universal access to mental health care through technology.\nImpressions: {\"A_32\": \"positive\", \"A_28\": \"negative\", \"A_26\": \"negative\"}\nWant to work with: {\"A_32\": true, \"A_28\": false, \"A_26\": false}\n",
+      "want_to_work_with": {
+        "A_32": true,
+        "A_28": false,
+        "A_26": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_08": {
+      "name": "Sam Altman",
+      "idea": "EcoSpark (T01): EcoSpark leverages AI to convert waste into energy, providing a scalable and measurable solution to reduce urban waste while generating renewable energy. The platform incentivizes community participation through gamification, ensuring broad adoption and measurable social impact. \u2014 Role: PM/Visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Transform urban waste into sustainable energy through smart city integration and community engagement, with a focus on gamification to incentivize participation.\nStance: My stance remains focused on a project that can deliver clear, measurable benefits within our time constraints. EcoGuardian aligns best with this criteria.\nImpressions: {\"A_18\": \"positive\", \"A_21\": \"neutral\", \"A_48\": \"negative\"}\nWant to work with: {\"A_18\": true, \"A_21\": false, \"A_48\": false}\n",
+      "want_to_work_with": {
+        "A_18": true,
+        "A_21": false,
+        "A_48": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_09": {
+      "name": "Alexandr Wang",
+      "idea": "GreenGuardian: Real-Time Environmental Monitoring (T01): GreenGuardian uniquely addresses the critical need for large, high-quality datasets in environmental AI, providing a scalable solution that can be integrated into existing satellite and drone systems to monitor and protect our planet in real-time. \u2014 Role: Tech Lead",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: We are building a scalable data labeling platform that accelerates the development of AI models for environmental monitoring, enabling real-time analysis of satellite imagery to detect deforestation and pollution. This platform will provide a massive dataset to train models that can predict and mitigate environmental damage.\nStance: My stance did not change significantly. I still believe in the importance of a scalable data labeling platform that contributes to environmental conservation and accelerates AI development.\nImpressions: {\"A_30\": \"negative\", \"A_24\": \"negative\", \"A_43\": \"negative\"}\nWant to work with: {\"A_30\": false, \"A_24\": false, \"A_43\": false}\n",
+      "want_to_work_with": {
+        "A_30": false,
+        "A_24": false,
+        "A_43": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_10": {
+      "name": "Donald Trump",
+      "idea": "EcoGuardian (T01): EcoGuardian leverages cutting-edge AI to provide real-time monitoring and protection for endangered species, addressing a critical social issue with innovative technology. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: EcoGuardian is a platform that uses AI to monitor and protect endangered species in real-time, addressing a critical social issue with innovative technology.\nStance: My stance remained firm on EcoGuardian as the best project for immediate and tangible impact. However, I am open to combining elements of the other ideas to enhance our project's appeal and functionality.\nImpressions: {\"A_39\": \"negative\", \"A_34\": \"negative\", \"A_00\": \"positive\"}\nWant to work with: {\"A_39\": false, \"A_34\": false, \"A_00\": true}\n",
+      "want_to_work_with": {
+        "A_39": false,
+        "A_34": false,
+        "A_00": true
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_11": {
+      "name": "Vladimir Putin",
+      "idea": "VigilantGuard (T01): VigilantGuard combines advanced AI for threat detection with a robust, secure infrastructure to protect against cyber threats, addressing a critical social issue in today's digital age. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: VigilantGuard combines advanced AI for threat detection with a robust, secure infrastructure to protect against cyber threats, addressing a critical social issue in today's digital age.\nStance: My stance did not change. I still believe VigilantGuard is the best option as it addresses a critical social issue with real-world implications and strategic depth.\nImpressions: {\"A_40\": \"negative\", \"A_15\": \"negative\", \"A_01\": \"negative\"}\nWant to work with: {\"A_40\": false, \"A_15\": false, \"A_01\": false}\n",
+      "want_to_work_with": {
+        "A_40": false,
+        "A_15": false,
+        "A_01": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_12": {
+      "name": "Xi Jinping",
+      "idea": "EduBridge AI (T01): EduBridge AI leverages AI to bridge the educational gap in rural areas, offering personalized learning paths and real-time feedback to students and teachers. \u2014 Role: Project Chairman and Chief Architect",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: EduBridge AI aims to transform rural education with targeted, AI-driven solutions, providing equitable access to quality learning resources.\nStance: My stance remains unchanged. EduBridge AI is the most strategic and impactful idea, directly addressing the educational gap in rural areas.\nImpressions: {\"A_47\": \"negative\", \"A_37\": \"negative\", \"A_05\": \"negative\"}\nWant to work with: {\"A_47\": false, \"A_37\": false, \"A_05\": false}\n",
+      "want_to_work_with": {
+        "A_47": false,
+        "A_37": false,
+        "A_05": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_13": {
+      "name": "Winston Churchill",
+      "idea": "TruthGuardian (T01): TruthGuardian leverages AI to combat fake news, ensuring accurate information reaches the public, thereby preserving democratic integrity and social cohesion. \u2014 Role: PM / Visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: In the face of global misinformation, we will build a system that uses AI to detect and counteract fake news, ensuring the truth prevails. This is not just a tool\u2014it's a weapon for democracy. Combining humor with a serious mission can make it more relatable and shareable.\nStance: My stance remained focused on the core mission of combating misinformation while acknowledging the importance of engagement and virality. I believe a combination of humor and serious content can make the project more relatable and shareable.\nImpressions: {\"A_49\": \"positive\", \"A_46\": \"neutral\", \"A_45\": \"negative\"}\nWant to work with: {\"A_49\": true, \"A_46\": true, \"A_45\": false}\n",
+      "want_to_work_with": {
+        "A_49": true,
+        "A_46": true,
+        "A_45": false
+      },
+      "status": "PARTIAL_TEAM"
+    },
+    "A_14": {
+      "name": "Barack Obama",
+      "idea": "VocalEcho (T01): VocalEcho uniquely combines AI with community engagement to ensure underrepresented voices are amplified and heard, addressing the critical need for inclusive dialogue and social change. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Our project, 'VocalEcho', is a platform that amplifies underrepresented voices in local communities, fostering dialogue and understanding. By leveraging AI, we ensure every voice is heard and valued, driving real social change.\nStance: My stance remained focused on the importance of local, sustained impact and representation. I believe that a platform combining these elements can be both urgent and scalable.\nImpressions: {\"A_41\": \"neutral\", \"A_04\": \"negative\", \"A_25\": \"negative\"}\nWant to work with: {\"A_41\": true, \"A_04\": false, \"A_25\": false}\n",
+      "want_to_work_with": {
+        "A_41": true,
+        "A_04": false,
+        "A_25": false
+      },
+      "status": "PARTIAL_TEAM"
+    },
+    "A_15": {
+      "name": "Angela Merkel",
+      "idea": "ElderGuardian (T01): ElderGuardian uniquely combines safety features like emergency alerts with social engagement tools, addressing both physical and mental health needs of the elderly. \u2014 Role: Project Manager and Lead Tester",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Empower elderly users to stay connected and safe with a smart home assistant that integrates emergency services and personalized companionship.\nStance: My stance remains unchanged. ElderGuardian is the most balanced and impactful idea, combining functionality with compassion to address critical needs for the elderly.\nImpressions: {\"A_40\": \"negative\", \"A_01\": \"negative\", \"A_11\": \"negative\"}\nWant to work with: {\"A_40\": false, \"A_01\": false, \"A_11\": false}\n",
+      "want_to_work_with": {
+        "A_40": false,
+        "A_01": false,
+        "A_11": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_16": {
+      "name": "Narendra Modi",
+      "idea": "AarogyaSathi: Remote Healthcare for Rural India (T01): AarogyaSathi leverages AI to provide remote healthcare services, addressing the severe healthcare disparity in rural areas. It ensures that every villager, regardless of location, can access quality healthcare. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: AarogyaSathi leverages AI to provide remote healthcare services in rural India, addressing the severe healthcare disparity and ensuring every villager can access quality healthcare.\nStance: My stance did not change significantly. I still believe AarogyaSathi is the most impactful and aligned with the hackathon's social impact criteria.\nImpressions: {\"A_20\": \"negative\", \"A_03\": \"positive\", \"A_27\": \"negative\"}\nWant to work with: {\"A_03\": true, \"A_20\": false, \"A_27\": false}\n",
+      "want_to_work_with": {
+        "A_03": true,
+        "A_20": false,
+        "A_27": false
+      },
+      "status": "PARTIAL_TEAM"
+    },
+    "A_17": {
+      "name": "Volodymyr Zelenskyy",
+      "idea": "HopeLine (T01): HopeLine uniquely combines direct democracy with modern technology, giving citizens a voice and empowering them to influence policy and legislation. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: HopeLine is a platform that connects citizens directly with their representatives, ensuring their voices are heard and empowering them to influence policy and legislation. It addresses the fundamental issue of political engagement and representation.\nStance: My stance did not change significantly. I still believe 'HopeLine' is the most impactful and scalable solution for addressing the democratic imperative of political engagement and representation.\nImpressions: {\"A_02\": \"negative\", \"A_23\": \"negative\", \"A_33\": \"negative\"}\nWant to work with: {\"A_02\": false, \"A_23\": false, \"A_33\": false}\n",
+      "want_to_work_with": {
+        "A_02": false,
+        "A_23": false,
+        "A_33": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_18": {
+      "name": "Margaret Thatcher",
+      "idea": "EcoGuardian (T01): EcoGuardian leverages cutting-edge AI to provide actionable insights and solutions for environmental issues, making it a unique and impactful social impact project. \u2014 Role: PM and Presenter",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: EcoGuardian is a comprehensive platform that uses AI to monitor and mitigate environmental pollution in real-time, ensuring clean air and water for communities worldwide. We will focus on refining this project to ensure it delivers tangible, measurable benefits within the 36-hour timeframe.\nStance: My stance remains unchanged. EcoGuardian is the only project that delivers clear, measurable benefits and aligns with our time constraints.\nImpressions: {\"A_21\": \"negative\", \"A_08\": \"negative\", \"A_48\": \"negative\"}\nWant to work with: {\"A_21\": false, \"A_08\": false, \"A_48\": false}\n",
+      "want_to_work_with": {
+        "A_21": false,
+        "A_08": false,
+        "A_48": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_19": {
+      "name": "Joe Biden",
+      "idea": "Government Navigator (T01): By leveraging AI to simplify and personalize the application process, we aim to bridge the gap between those in need and available resources, thereby reducing administrative burdens and increasing access to essential services. \u2014 Role: Team Captain / Chief Morale Officer / Lead Storyteller",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Empowering families to navigate government assistance programs with ease, ensuring no one falls through the cracks.\nStance: My stance remains focused on immediate, tangible impact and emotional well-being. A_29 and A_44's ideas better align with this focus compared to A_38's long-term, scientific approach.\nImpressions: {\"A_29\": \"positive\", \"A_38\": \"negative\", \"A_44\": \"positive\"}\nWant to work with: {\"A_29\": true, \"A_38\": false, \"A_44\": true}\n",
+      "want_to_work_with": {
+        "A_29": true,
+        "A_38": false,
+        "A_44": true
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_20": {
+      "name": "Kanye West",
+      "idea": "Yeezus (T03): Yeezus merges spirituality, technology, and art into a single, immersive experience that elevates users to a higher plane of existence. \u2014 Role: Spiritual Leader and Creative Director",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Yeezus merges spirituality, technology, and art into a single, immersive experience that elevates users to a higher plane of existence. The goal is to create a digital cathedral that reconnects people with their divine purpose.\nStance: My stance remained focused on the spiritual and emotional transformation of individuals. I found A_27's idea to be more aligned with these goals, although it still needs to incorporate the technological and artistic elements of Yeezus.\nImpressions: {\"A_16\": \"negative\", \"A_03\": \"negative\", \"A_27\": \"positive\"}\nWant to work with: {\"A_16\": false, \"A_03\": false, \"A_27\": true}\n",
+      "want_to_work_with": {
+        "A_16": false,
+        "A_03": false,
+        "A_27": true
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_21": {
+      "name": "Banksy",
+      "idea": "WallSpeak (T01): By leveraging augmented reality and graffiti technology, WallSpeak turns the urban landscape into a living canvas for social change, addressing issues like free speech and community engagement. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: WallSpeak aims to transform urban walls into a platform for anonymous social commentary, empowering marginalized voices and sparking social change. I believe this project aligns with my vision of using art as a form of protest and social commentary.\nStance: My stance remained firm on WallSpeak as it aligns with my vision of using art and protest for social change. I am confident that it can be executed within the given timeframe and will have a powerful impact.\nImpressions: {\"A_18\": \"negative\", \"A_08\": \"negative\", \"A_48\": \"negative\"}\nWant to work with: {\"A_18\": false, \"A_08\": false, \"A_48\": false}\n",
+      "want_to_work_with": {
+        "A_18": false,
+        "A_08": false,
+        "A_48": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_22": {
+      "name": "Salvador Dal\u00ed",
+      "idea": "Dreamscapes Projector (T03): The Dreamscapes Projector combines the surreal and the technological to create a unique, immersive experience that challenges perceptions of reality and the subconscious mind. \u2014 Role: Visionary and Spiritual Leader",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: The Dreamscapes Projector combines the surreal and the technological to create a unique, immersive experience that challenges perceptions of reality and the subconscious mind. It is not just an app; it's a portal to the collective unconscious, a performance of genius.\nStance: My stance did not change significantly. I still believe the Dreamscapes Projector is the best fit for the hackathon, as it aligns with the goal of creating a spectacle and capturing the judges' attention.\nImpressions: {\"A_42\": \"negative\", \"A_35\": \"negative\", \"A_31\": \"negative\"}\nWant to work with: {\"A_42\": false, \"A_35\": false, \"A_31\": false}\n",
+      "want_to_work_with": {
+        "A_42": false,
+        "A_35": false,
+        "A_31": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_23": {
+      "name": "Andy Warhol",
+      "idea": "Iconify (T03): By democratizing the art world and turning everyday objects into iconic art, Iconify challenges traditional notions of art and accessibility. It uses modern technology to bridge the gap between the common and the extraordinary. \u2014 Role: creative director and brand strategist",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: An app that turns everyday objects into iconic art pieces, democratizing the art world. Each object is scanned and transformed into a digital artwork, available for purchase. It\u2019s the future of art, accessible to everyone.\nStance: My stance remains focused on democratizing art. While there were valid points raised about the importance of political engagement and mental health, my primary goal is to create a product that is accessible and scalable, aligning with my vision of making art accessible to everyone.\nImpressions: {\"A_17\": \"negative\", \"A_02\": \"negative\", \"A_33\": \"negative\"}\nWant to work with: {\"A_17\": false, \"A_02\": false, \"A_33\": false}\n",
+      "want_to_work_with": {
+        "A_17": false,
+        "A_02": false,
+        "A_33": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_24": {
+      "name": "Lady Gaga",
+      "idea": "EmotiConnect (T01): EmotiConnect uses emotional expression as a means of connection, addressing social isolation and providing a safe space for marginalized communities to find belonging. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: EmotiConnect is a platform that uses emotional expression as a means of connection, addressing social isolation and providing a safe space for marginalized communities to find belonging. It is not just an app; it's a cultural statement that amplifies the voices of the outcasts.\nStance: My stance remains focused on creating a platform that addresses social isolation and provides emotional connection, while also having a measurable impact. A_30's idea aligns closely with this vision and adds a life-changing aspect that A_09's idea does not fully capture.\nImpressions: {\"A_30\": \"positive\", \"A_09\": \"neutral\", \"A_43\": \"negative\"}\nWant to work with: {\"A_30\": true, \"A_09\": false, \"A_43\": false}\n",
+      "want_to_work_with": {
+        "A_30": true,
+        "A_09": false,
+        "A_43": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_25": {
+      "name": "Ai Weiwei",
+      "idea": "Echoes of Dissent (T01): This platform uniquely combines social impact with a powerful political message, ensuring that every user's voice is heard and every post becomes a form of resistance. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Echoes of Dissent: A platform that amplifies silenced voices, turning every post into a digital protest against censorship. Combines urgency of local impact with the necessity of political resistance.\nStance: My stance remains focused on political resistance and digital protest. I now see the value in A_14's emphasis on local communities and ongoing dialogue, which can complement the broader political message.\nImpressions: {\"A_14\": \"positive\", \"A_41\": \"negative\", \"A_04\": \"negative\"}\nWant to work with: {\"A_14\": true, \"A_41\": false, \"A_04\": false}\n",
+      "want_to_work_with": {
+        "A_14": true,
+        "A_41": false,
+        "A_04": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_26": {
+      "name": "Damien Hirst",
+      "idea": "Virtual Eternity (T01): Virtual Eternity challenges the traditional understanding of death by offering a digital continuation of the human experience, providing a novel and controversial way to cope with loss. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Virtual Eternity - A digital morgue where the deceased are preserved in a virtual reality environment, allowing mourners to interact with the departed in an uncanny valley of digital resurrection. This project challenges our perception of death and offers a new way to grieve, addressing a unique social impact.\nStance: My stance did not change significantly. I still believe that a project with immediate and tangible social impact is the best approach for a 36-hour hackathon. However, I now see the potential in a more provocative and philosophical project that could capture immediate attention and provoke a strong reaction.\nImpressions: {\"A_32\": \"negative\", \"A_28\": \"negative\", \"A_07\": \"negative\"}\nWant to work with: {\"A_32\": false, \"A_28\": false, \"A_07\": false}\n",
+      "want_to_work_with": {
+        "A_32": false,
+        "A_28": false,
+        "A_07": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_27": {
+      "name": "Marina Abramovi\u0107",
+      "idea": "Presence Ritual (T01): The project challenges users to engage in uncomfortable, yet meaningful, interactions that foster deeper human connections and self-awareness, addressing themes of social isolation and the value of authentic human interaction. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: In a world where digital detoxes are trendy, we offer a platform that forces users to disconnect, revealing the depths of human connection and vulnerability. This is not a social media app; it's a ritual of presence and truth.\nStance: My stance did not change significantly. I still believe in the importance of creating a platform that fosters human connection and vulnerability, rather than focusing on practical solutions or spiritual journeys.\nImpressions: {\"A_16\": \"negative\", \"A_20\": \"negative\", \"A_03\": \"negative\"}\nWant to work with: {\"A_16\": false, \"A_20\": false, \"A_03\": false}\n",
+      "want_to_work_with": {
+        "A_16": false,
+        "A_20": false,
+        "A_03": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_28": {
+      "name": "Yoko Ono",
+      "idea": "The Forgetting Machine (T01): By focusing on erasure and mindfulness, 'The Forgetting Machine' addresses the stress of constant task management, promoting a healthier approach to productivity. \u2014 Role: presenter",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: The Forgetting Machine addresses the stress of constant task management by erasing to-do lists, promoting a healthier mindset and a cultural shift towards mindfulness.\nStance: My stance did not change significantly. I still believe 'The Forgetting Machine' is the best fit for the Best Social Impact track and can achieve a meaningful impact in a shorter timeframe.\nImpressions: {\"A_32\": \"positive\", \"A_07\": \"neutral\", \"A_26\": \"negative\"}\nWant to work with: {\"A_32\": true, \"A_07\": false, \"A_26\": false}\n",
+      "want_to_work_with": {
+        "A_32": true,
+        "A_07": false,
+        "A_26": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_29": {
+      "name": "Takashi Murakami",
+      "idea": "EchoMuse: AI Companions for Digital Loneliness (T01): EchoMuse uniquely combines the therapeutic benefits of human-like companionship with the scalability and personalization capabilities of AI, addressing a widespread social issue in a novel and accessible way. \u2014 Role: presenter",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: EchoMuse is a platform that uses AI-generated characters to foster meaningful connections and emotional support, addressing digital loneliness in a scalable and emotionally resonant way.\nStance: My stance did not change significantly. I still believe EchoMuse provides a more immediate and scalable solution to digital loneliness, aligning with the hackathon's focus on emotional resonance and rapid impact.\nImpressions: {\"A_38\": \"negative\", \"A_19\": \"negative\", \"A_44\": \"negative\"}\nWant to work with: {\"A_38\": false, \"A_19\": false, \"A_44\": false}\n",
+      "want_to_work_with": {
+        "A_38": false,
+        "A_19": false,
+        "A_44": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_30": {
+      "name": "Napoleon Bonaparte",
+      "idea": "Eyes of the Future (T01): Our platform combines advanced AI with haptic feedback to provide real-time, accessible information, addressing a critical social issue with innovative technology. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Our platform combines advanced AI with haptic feedback to provide real-time, accessible information, addressing the critical social issue of empowering the visually impaired with life-changing tools.\nStance: My stance did not change significantly. I still believe in the importance of providing life-changing tools to the visually impaired, as it aligns with the social impact criteria and the grand vision of Eyes of the Future.\nImpressions: {\"A_24\": \"negative\", \"A_09\": \"negative\", \"A_43\": \"negative\"}\nWant to work with: {\"A_24\": false, \"A_09\": false, \"A_43\": false}\n",
+      "want_to_work_with": {
+        "A_24": false,
+        "A_09": false,
+        "A_43": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_31": {
+      "name": "Mahatma Gandhi",
+      "idea": "VoiceOfThePeople (T01): VoiceOfThePeople is unique because it leverages blockchain technology to create a decentralized voting system that guarantees transparency, security, and equal representation for all citizens, addressing issues of corruption and disenfranchisement. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Empower the voice of the unheard through a decentralized platform that ensures every citizen\u2019s opinion is heard and valued, ensuring a more just and equitable society.\nStance: My stance did not change significantly. I remain committed to VoiceOfThePeople as it aligns closely with my core values and the hackathon's goals.\nImpressions: {\"A_42\": \"negative\", \"A_35\": \"negative\", \"A_22\": \"negative\"}\nWant to work with: {\"A_42\": false, \"A_35\": false, \"A_22\": false}\n",
+      "want_to_work_with": {
+        "A_42": false,
+        "A_35": false,
+        "A_22": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_32": {
+      "name": "Cleopatra",
+      "idea": "GuideEye (T01): GuideEye leverages advanced AI and haptic feedback to provide real-time navigation and object recognition, addressing a critical social issue with innovative technology. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Empower the visually impaired with a groundbreaking, accessible app that turns any smartphone into a guide dog, enhancing their independence and safety. GuideEye addresses a critical social issue with innovative technology.\nStance: My stance remained focused on GuideEye as the best option for a legacy project that addresses a critical social issue with innovative technology.\nImpressions: {\"A_28\": \"negative\", \"A_07\": \"negative\", \"A_26\": \"negative\"}\nWant to work with: {\"A_28\": false, \"A_07\": false, \"A_26\": false}\n",
+      "want_to_work_with": {
+        "A_28": false,
+        "A_07": false,
+        "A_26": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_33": {
+      "name": "Genghis Khan",
+      "idea": "MongolDesk: The Ultimate Remote Work Platform (T01): MongolDesk integrates advanced AI for predictive analytics, real-time collaboration tools, and secure data sharing, addressing the critical social issue of remote work efficiency and security. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: MongolDesk is a platform that revolutionizes remote work, ensuring seamless collaboration and productivity for teams worldwide. It addresses the systemic inefficiencies in remote work that are holding back entire economies.\nStance: My stance remains unchanged. MongolDesk is the most impactful and scalable solution, addressing a universal problem that affects billions.\nImpressions: {\"A_17\": \"negative\", \"A_02\": \"negative\", \"A_23\": \"negative\"}\nWant to work with: {\"A_17\": false, \"A_02\": false, \"A_23\": false}\n",
+      "want_to_work_with": {
+        "A_17": false,
+        "A_02": false,
+        "A_23": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_34": {
+      "name": "Martin Luther King Jr.",
+      "idea": "Voice Amplifier (T01): Voice Amplifier uniquely combines a robust communication platform with integrated advocacy tools, empowering marginalized voices and providing a measurable impact in terms of increased visibility and support for these communities. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Build a platform that amplifies the voices of marginalized communities, ensuring their stories are heard and valued. This platform will provide a space for expression, tools for advocacy, and support.\nStance: My stance remains unchanged. I believe we must address both the immediate crises and the systemic inequalities faced by marginalized communities. A_10, A_39, and A_00's ideas, while important, do not fully align with this dual approach.\nImpressions: {\"A_10\": \"negative\", \"A_39\": \"negative\", \"A_00\": \"negative\"}\nWant to work with: {\"A_10\": false, \"A_39\": false, \"A_00\": false}\n",
+      "want_to_work_with": {
+        "A_10": false,
+        "A_39": false,
+        "A_00": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_35": {
+      "name": "Nikola Tesla",
+      "idea": "Resonant Energy Network (T01): This project leverages Tesla's principles of wireless energy transmission to provide clean, limitless power to underserved communities, addressing environmental and social justice issues. \u2014 Role: Chief Scientist",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Leverage Tesla's principles of wireless energy transmission to provide clean, limitless power to underserved communities, addressing environmental and social justice issues.\nStance: My stance did not change. I still believe that the Resonant Energy Network is the most impactful and revolutionary idea, addressing both social and environmental issues.\nImpressions: {\"A_42\": \"negative\", \"A_31\": \"negative\", \"A_22\": \"negative\"}\nWant to work with: {\"A_42\": false, \"A_31\": false, \"A_22\": false}\n",
+      "want_to_work_with": {
+        "A_42": false,
+        "A_31": false,
+        "A_22": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_36": {
+      "name": "Julius Caesar",
+      "idea": "SightBridge (T01): SightBridge leverages cutting-edge AI to provide tangible, measurable social impact by improving the quality of life for the visually impaired, addressing a critical social issue. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Our project will build a platform using AI to provide real-time object recognition and navigation assistance to the visually impaired, transforming their daily lives.\nStance: My stance did not change significantly. I still believe that empowering the visually impaired community is the most impactful and measurable way to achieve our goals.\nImpressions: {\"A_06\": \"negative\"}\nWant to work with: {\"A_06\": false}\n",
+      "want_to_work_with": {
+        "A_06": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_37": {
+      "name": "Qin Shi Huang",
+      "idea": "Eternal Communion Protocol (T01): This protocol will standardize global communication, ensuring no information is lost and every message is delivered with perfect accuracy, creating a lasting impact on society. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Eternal Communion Protocol (T01) aims to standardize global communication, ensuring no information is lost and every message is delivered with perfect accuracy, creating a lasting impact on society.\nStance: My stance did not change significantly. I still believe in the importance of a grand, unifying protocol that ensures eternal order and efficiency.\nImpressions: {\"A_05\": \"negative\", \"A_12\": \"negative\"}\nWant to work with: {\"A_47\": false, \"A_05\": false, \"A_12\": false}\n",
+      "want_to_work_with": {
+        "A_47": false,
+        "A_05": false,
+        "A_12": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_38": {
+      "name": "Marie Curie",
+      "idea": "Radiocure (T01): Radiocure leverages advanced radioisotope therapy to target cancer cells precisely, minimizing damage to healthy tissues. This project combines cutting-edge research with a tangible social impact, offering hope to millions suffering from cancer. \u2014 Role: tech_lead",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Unlocking the mysteries of radioactivity to develop a new class of targeted cancer therapies, powered by rigorous scientific discovery. This project combines cutting-edge research with a tangible social impact, offering hope to millions suffering from cancer.\nStance: My stance did not change significantly. I still believe that 'Radiocure' offers the most compelling and impactful solution for this hackathon, aligning with the scientific and social goals of the event.\nImpressions: {\"A_29\": \"negative\", \"A_19\": \"neutral\", \"A_44\": \"negative\"}\nWant to work with: {\"A_29\": false, \"A_19\": false, \"A_44\": false}\n",
+      "want_to_work_with": {
+        "A_29": false,
+        "A_19": false,
+        "A_44": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_39": {
+      "name": "Leonardo da Vinci",
+      "idea": "EmoSketch: Emotional Generative Art (T03): EmoSketch uniquely combines emotional self-awareness with generative art, offering a novel way to visualize and understand one's emotions through interactive and aesthetically pleasing means. \u2014 Role: designer",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: EmoSketch is a digital canvas that allows users to explore and understand their emotions through generative art, fostering self-awareness and emotional intelligence.\nStance: My stance remains focused on EmoSketch, but I am open to combining it with a project that addresses immediate environmental threats, such as A_00's drones.\nImpressions: {\"A_10\": \"negative\", \"A_34\": \"neutral\", \"A_00\": \"positive\"}\nWant to work with: {\"A_10\": false, \"A_34\": false, \"A_00\": true}\n",
+      "want_to_work_with": {
+        "A_10": false,
+        "A_34": false,
+        "A_00": true
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_40": {
+      "name": "Logan Paul",
+      "idea": "TaskPuncher (T03): TaskPuncher combines productivity with entertainment, offering a unique and memorable user experience that sets it apart from traditional to-do list apps. \u2014 Role: Presenter / Demo",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: TaskPuncher combines productivity with entertainment, offering a unique and memorable user experience that sets it apart from traditional to-do list apps. It provides a spectacle that will captivate audiences and drive engagement.\nStance: My stance remains focused on TaskPuncher as the most viral and entertaining idea. However, I recognize the importance and impact of the other ideas and am willing to consider working with those who can bring their strengths to the table.\nImpressions: {\"A_15\": \"negative\", \"A_01\": \"negative\", \"A_11\": \"negative\"}\nWant to work with: {\"A_15\": false, \"A_01\": false, \"A_11\": false}\n",
+      "want_to_work_with": {
+        "A_15": false,
+        "A_01": false,
+        "A_11": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_41": {
+      "name": "Jake Paul",
+      "idea": "EchoWave (T01): EchoWave leverages AI to identify and amplify underrepresented voices, ensuring marginalized communities have a stronger presence online. It uses advanced natural language processing to analyze content and promote posts that highlight diverse perspectives. \u2014 Role: presenter",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: EchoWave leverages AI to amplify underrepresented voices globally, ensuring marginalized communities have a stronger presence online. It combines local impact with a global audience to ensure every voice is heard and valued.\nStance: My stance remains focused on a platform that combines local impact with global reach, ensuring every voice is heard and valued. However, I am open to integrating elements from A_14's idea to enhance the community-driven aspect.\nImpressions: {\"A_14\": \"positive\", \"A_04\": \"negative\", \"A_25\": \"negative\"}\nWant to work with: {\"A_14\": true, \"A_04\": false, \"A_25\": false}\n",
+      "want_to_work_with": {
+        "A_14": true,
+        "A_04": false,
+        "A_25": false
+      },
+      "status": "PARTIAL_TEAM"
+    },
+    "A_42": {
+      "name": "Andrew Tate",
+      "idea": "HabitHive (T03): HabitHive uniquely combines personal habit tracking with monetization opportunities, providing a seamless way for individuals to turn their daily activities into income streams. \u2014 Role: PM/Visionary, Presenter",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: HabitHive uniquely combines personal habit tracking with monetization opportunities, providing a seamless way for individuals to turn their daily activities into income streams.\nStance: My stance did not change significantly. I still believe HabitHive is the best option as it is bold, commercially viable, and will make us stand out in the judges' eyes.\nImpressions: {\"A_35\": \"negative\", \"A_31\": \"negative\", \"A_22\": \"negative\"}\nWant to work with: {\"A_35\": false, \"A_31\": false, \"A_22\": false}\n",
+      "want_to_work_with": {
+        "A_35": false,
+        "A_31": false,
+        "A_22": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_43": {
+      "name": "Belle Delphine",
+      "idea": "Nightmares & Advice (T03): The platform combines the psychological thrill of confronting one's fears with the practical utility of personalized advice, all while delivering a highly engaging and memorable user experience. \u2014 Role: presenter",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Eyes of the Future is a platform that uses AI for real-time navigation and object recognition to empower the visually impaired. It's a beacon of hope and a life-changing tool.\nStance: My stance remains focused on creating a platform that empowers and improves lives through real-time navigation and object recognition for the visually impaired.\nImpressions: {\"A_30\": \"positive\", \"A_24\": \"negative\", \"A_09\": \"negative\"}\nWant to work with: {\"A_30\": true, \"A_24\": false, \"A_09\": false}\n",
+      "want_to_work_with": {
+        "A_30": true,
+        "A_24": false,
+        "A_09": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_44": {
+      "name": "Nikocado Avocado",
+      "idea": "TearStream (T01): TearStream uniquely combines emotional expression with data analysis to provide a novel approach to mental health, leveraging the act of crying as a form of therapy. \u2014 Role: Presenter / Demo",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: TearStream is an emotional processing platform that turns your tears into data, helping you understand and heal from your deepest emotions. It leverages the act of crying as a form of therapy, making it a highly emotional and relatable solution.\nStance: My stance remains unchanged. TearStream is the most aligned with the Hackathon's need for immediate emotional impact and relatability. The other ideas either focus too much on long-term goals or lack the emotional resonance needed to win.\nImpressions: {\"A_29\": \"negative\", \"A_38\": \"negative\", \"A_19\": \"negative\"}\nWant to work with: {\"A_29\": false, \"A_38\": false, \"A_19\": false}\n",
+      "want_to_work_with": {
+        "A_29": false,
+        "A_38": false,
+        "A_19": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_45": {
+      "name": "Addison Rae",
+      "idea": "MoodMatch (T01): MoodMatch leverages AI to foster emotional connection and empathy, addressing the social issue of loneliness and lack of genuine human interaction in today's digital age. \u2014 Role: Presenter/Marketer",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: MoodMatch leverages AI to connect individuals based on their emotional states, promoting empathy and understanding. It aims to foster emotional connections and turn emotional matches into viral moments, making empathy a trend.\nStance: My stance remains focused on creating a project that can go viral and engage a broad audience. While I value the importance of A_13's platform, I believe Meme Therapy offers a more effective way to achieve our goals.\nImpressions: {\"A_13\": \"negative\", \"A_46\": \"positive\"}\nWant to work with: {\"A_46\": true, \"A_13\": false}\n",
+      "want_to_work_with": {
+        "A_46": true,
+        "A_13": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_46": {
+      "name": "MrBeast",
+      "idea": "CommunityLink AI (T01): CommunityLink AI uniquely combines AI matchmaking with local volunteer opportunities, providing a personalized and effective way for individuals to engage in meaningful community service, thus creating tangible positive change. \u2014 Role: pm_visionary",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: We are building a social platform that turns daily struggles into viral memes, bringing humor and empathy to mental health conversations. This platform aims to make mental health discussions relatable and shareable on a massive scale, leveraging the power of humor to reach a broader audience.\nStance: My stance remained focused on creating a platform that leverages humor to make mental health discussions relatable and shareable. I believe this approach can maximize social impact and audience engagement.\nImpressions: {\"A_13\": \"negative\", \"A_45\": \"negative\"}\nWant to work with: {\"A_49\": true, \"A_13\": false, \"A_45\": false}\n",
+      "want_to_work_with": {
+        "A_49": true,
+        "A_13": false,
+        "A_45": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_47": {
+      "name": "Pokimane",
+      "idea": "GamerHeal (T01): GamerHeal uniquely blends AI chatbot technology with the power of human connection to provide personalized mental health support specifically tailored to the gaming community, addressing a critical but often overlooked need. \u2014 Role: Community-Oriented PM, UX Advocate, and Storytelling Presenter",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: GamerHeal uniquely blends AI chatbot technology with the power of human connection to provide personalized mental health support specifically tailored to the gaming community, addressing a critical but often overlooked need.\nStance: My stance remains focused on providing immediate, personalized mental health support for the gaming community. HealthGuard aligns well with our goal and provides a tangible impact.\nImpressions: {\"A_37\": \"negative\", \"A_05\": \"positive\", \"A_12\": \"negative\"}\nWant to work with: {\"A_05\": true, \"A_37\": false, \"A_12\": false}\n",
+      "want_to_work_with": {
+        "A_05": true,
+        "A_37": false,
+        "A_12": false
+      },
+      "status": "PARTIAL_TEAM"
+    },
+    "A_48": {
+      "name": "Kim Kardashian",
+      "idea": "Objectify (T02): Objectify uniquely combines augmented reality with retail experiences, offering a novel way to interact with physical products and fostering community engagement through storytelling and virtual try-ons. \u2014 Role: Presenter / Demo",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Objectify combines augmented reality with retail experiences, offering a novel way to interact with physical products and fostering community engagement through storytelling and virtual try-ons. It aligns with my vision of empowering consumers through engaging and interactive technologies.\nStance: My stance remains unchanged. Objectify offers the best alignment with my brand's vision and the highest potential for consumer engagement and immediate impact.\nImpressions: {\"A_18\": \"negative\", \"A_21\": \"negative\", \"A_08\": \"negative\"}\nWant to work with: {\"A_18\": false, \"A_21\": false, \"A_08\": false}\n",
+      "want_to_work_with": {
+        "A_18": false,
+        "A_21": false,
+        "A_08": false
+      },
+      "status": "LONE_WOLF"
+    },
+    "A_49": {
+      "name": "PewDiePie",
+      "idea": "Meme Therapy (T01): Meme Therapy uniquely combines social impact with humor, addressing mental health through relatable and humorous content that resonates with a wide audience. \u2014 Role: presenter",
+      "round_memory": "\n[Round 1 Summary]\nMy idea: Meme Therapy uniquely combines social impact with humor, addressing mental health through relatable and humorous content that resonates with a wide audience. We aim to turn daily struggles into viral memes, bringing humor and empathy to mental health conversations.\nStance: My stance remains focused on Meme Therapy, but I recognize the value in incorporating elements from the other ideas. Combining humor with a serious mission and reaching a broad audience is key.\nImpressions: {\"A_13\": \"positive\", \"A_46\": \"positive\", \"A_45\": \"positive\"}\nWant to work with: {\"A_13\": true, \"A_46\": true, \"A_45\": true}\n",
+      "want_to_work_with": {
+        "A_13": true,
+        "A_46": true,
+        "A_45": true
+      },
+      "status": "PARTIAL_TEAM"
+    }
+  },
+  "partial_teams": [
+    [
+      "A_03",
+      "A_16"
+    ],
+    [
+      "A_05",
+      "A_47"
+    ],
+    [
+      "A_13",
+      "A_49"
+    ],
+    [
+      "A_14",
+      "A_41"
+    ]
+  ],
+  "agent_status": {
+    "A_00": "LONE_WOLF",
+    "A_01": "LONE_WOLF",
+    "A_02": "LONE_WOLF",
+    "A_03": "PARTIAL_TEAM",
+    "A_04": "LONE_WOLF",
+    "A_05": "PARTIAL_TEAM",
+    "A_06": "LONE_WOLF",
+    "A_07": "LONE_WOLF",
+    "A_08": "LONE_WOLF",
+    "A_09": "LONE_WOLF",
+    "A_10": "LONE_WOLF",
+    "A_11": "LONE_WOLF",
+    "A_12": "LONE_WOLF",
+    "A_13": "PARTIAL_TEAM",
+    "A_14": "PARTIAL_TEAM",
+    "A_15": "LONE_WOLF",
+    "A_16": "PARTIAL_TEAM",
+    "A_17": "LONE_WOLF",
+    "A_18": "LONE_WOLF",
+    "A_19": "LONE_WOLF",
+    "A_20": "LONE_WOLF",
+    "A_21": "LONE_WOLF",
+    "A_22": "LONE_WOLF",
+    "A_23": "LONE_WOLF",
+    "A_24": "LONE_WOLF",
+    "A_25": "LONE_WOLF",
+    "A_26": "LONE_WOLF",
+    "A_27": "LONE_WOLF",
+    "A_28": "LONE_WOLF",
+    "A_29": "LONE_WOLF",
+    "A_30": "LONE_WOLF",
+    "A_31": "LONE_WOLF",
+    "A_32": "LONE_WOLF",
+    "A_33": "LONE_WOLF",
+    "A_34": "LONE_WOLF",
+    "A_35": "LONE_WOLF",
+    "A_36": "LONE_WOLF",
+    "A_37": "LONE_WOLF",
+    "A_38": "LONE_WOLF",
+    "A_39": "LONE_WOLF",
+    "A_40": "LONE_WOLF",
+    "A_41": "PARTIAL_TEAM",
+    "A_42": "LONE_WOLF",
+    "A_43": "LONE_WOLF",
+    "A_44": "LONE_WOLF",
+    "A_45": "LONE_WOLF",
+    "A_46": "LONE_WOLF",
+    "A_47": "PARTIAL_TEAM",
+    "A_48": "LONE_WOLF",
+    "A_49": "PARTIAL_TEAM"
+  }
+}

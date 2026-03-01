@@ -1,0 +1,144 @@
+{
+  "team_id": "team_11",
+  "average_score": 5.86,
+  "dimension_averages": {
+    "innovation": 6.5,
+    "feasibility": 4.4,
+    "presentation": 7.2,
+    "teamwork": 5.0,
+    "track_fit": 6.1
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_11",
+      "overall_impression": "The project aims to address a critical issue but lacks depth in technical execution and novelty.",
+      "dimension_scores": {
+        "innovation": 5.0,
+        "feasibility": 5.5,
+        "presentation": 7.0,
+        "teamwork": 5.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Strong emphasis on user satisfaction and ethical considerations."
+      ],
+      "weaknesses": [
+        "Lack of technical depth and novel approaches in the tech stack.",
+        "Over-reliance on existing frameworks like TensorFlow and AWS without showing significant customization or innovation."
+      ],
+      "feedback": "While the project addresses a crucial need, consider integrating more innovative and custom-built components to enhance the technical depth. Also, explore how you can further customize the NLP models and backend infrastructure to better fit your unique use case."
+    },
+    {
+      "team_id": "team_11",
+      "overall_impression": "The team has a compelling mission to address a significant global issue, but the execution lacks depth and realism.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 4.5,
+        "presentation": 7.5,
+        "teamwork": 6.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear and compelling mission statement",
+        "Strong team with diverse roles and backgrounds"
+      ],
+      "weaknesses": [
+        "Lack of detailed technical implementation and scalability plans",
+        "Overemphasis on novelty without practical feasibility"
+      ],
+      "feedback": "While the mission is important, the team needs to focus more on the technical feasibility and scalability of their solution. Provide more concrete details on how you plan to handle global scale and ensure real-time emotion detection."
+    },
+    {
+      "team_id": "team_11",
+      "overall_impression": "The project aims to address a critical issue but lacks depth in technical details and practical implementation.",
+      "dimension_scores": {
+        "innovation": 6.0,
+        "feasibility": 5.0,
+        "presentation": 7.0,
+        "teamwork": 5.0,
+        "track_fit": 6.5
+      },
+      "strengths": [
+        "The concept of providing universal access to mental health care via AI is innovative and addresses a significant societal need.",
+        "The team has a strong mix of roles and clear division of responsibilities."
+      ],
+      "weaknesses": [
+        "The technical feasibility of the project is questionable given the ambitious scope and lack of detailed implementation plans.",
+        "The team's responses during Q&A lacked concrete examples and metrics, making it hard to assess the project's viability."
+      ],
+      "feedback": "While the idea is promising, the team needs to provide more concrete technical details and metrics to demonstrate feasibility. Consider focusing on a smaller, more achievable scope to validate key components of your platform."
+    },
+    {
+      "team_id": "team_11",
+      "overall_impression": "The team has a strong vision and addresses a critical need, but the execution and presentation could be more grounded and realistic.",
+      "dimension_scores": {
+        "innovation": 6.5,
+        "feasibility": 5.0,
+        "presentation": 7.5,
+        "teamwork": 4.0,
+        "track_fit": 7.0
+      },
+      "strengths": [
+        "Addresses a significant global issue with a tiered care model and AI integration.",
+        "Clear and compelling Q&A responses, demonstrating a good understanding of the project."
+      ],
+      "weaknesses": [
+        "The team's personas (e.g., Peter Thiel, Joe Biden, Logan Paul) seem more like a joke than a serious approach to the problem.",
+        "Lack of concrete technical details and timelines for feasibility in a hackathon setting."
+      ],
+      "feedback": "While the concept is innovative and relevant, the team should focus on providing more realistic timelines and technical details. Consider grounding the personas in more credible roles to enhance the seriousness of your pitch."
+    },
+    {
+      "team_id": "team_11",
+      "overall_impression": "The team has a strong vision for addressing a critical need in mental health care, but the execution lacks depth and realism.",
+      "dimension_scores": {
+        "innovation": 8.0,
+        "feasibility": 2.0,
+        "presentation": 7.0,
+        "teamwork": 5.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Clear and compelling poster and Q&A",
+        "Strong tiered care model with AI and human therapist integration"
+      ],
+      "weaknesses": [
+        "Lack of detailed technical feasibility and timelines",
+        "Overemphasis on celebrity names rather than actual contributions"
+      ],
+      "feedback": "While the concept is innovative and addresses a significant issue, the team needs to focus more on the technical feasibility and timelines. Additionally, consider replacing the celebrity names with actual contributions from team members to strengthen credibility."
+    }
+  ],
+  "feedbacks": [
+    "While the project addresses a crucial need, consider integrating more innovative and custom-built components to enhance the technical depth. Also, explore how you can further customize the NLP models and backend infrastructure to better fit your unique use case.",
+    "While the mission is important, the team needs to focus more on the technical feasibility and scalability of their solution. Provide more concrete details on how you plan to handle global scale and ensure real-time emotion detection.",
+    "While the idea is promising, the team needs to provide more concrete technical details and metrics to demonstrate feasibility. Consider focusing on a smaller, more achievable scope to validate key components of your platform.",
+    "While the concept is innovative and relevant, the team should focus on providing more realistic timelines and technical details. Consider grounding the personas in more credible roles to enhance the seriousness of your pitch.",
+    "While the concept is innovative and addresses a significant issue, the team needs to focus more on the technical feasibility and timelines. Additionally, consider replacing the celebrity names with actual contributions from team members to strengthen credibility."
+  ],
+  "strengths": [
+    "Clear and compelling presentation of the problem and solution.",
+    "Strong emphasis on user satisfaction and ethical considerations.",
+    "Clear and compelling mission statement",
+    "Strong team with diverse roles and backgrounds",
+    "The concept of providing universal access to mental health care via AI is innovative and addresses a significant societal need.",
+    "The team has a strong mix of roles and clear division of responsibilities.",
+    "Addresses a significant global issue with a tiered care model and AI integration.",
+    "Clear and compelling Q&A responses, demonstrating a good understanding of the project.",
+    "Clear and compelling poster and Q&A",
+    "Strong tiered care model with AI and human therapist integration"
+  ],
+  "weaknesses": [
+    "Lack of technical depth and novel approaches in the tech stack.",
+    "Over-reliance on existing frameworks like TensorFlow and AWS without showing significant customization or innovation.",
+    "Lack of detailed technical implementation and scalability plans",
+    "Overemphasis on novelty without practical feasibility",
+    "The technical feasibility of the project is questionable given the ambitious scope and lack of detailed implementation plans.",
+    "The team's responses during Q&A lacked concrete examples and metrics, making it hard to assess the project's viability.",
+    "The team's personas (e.g., Peter Thiel, Joe Biden, Logan Paul) seem more like a joke than a serious approach to the problem.",
+    "Lack of concrete technical details and timelines for feasibility in a hackathon setting.",
+    "Lack of detailed technical feasibility and timelines",
+    "Overemphasis on celebrity names rather than actual contributions"
+  ]
+}

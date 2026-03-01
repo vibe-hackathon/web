@@ -1,0 +1,144 @@
+{
+  "team_id": "team_1",
+  "average_score": 6.89,
+  "dimension_averages": {
+    "innovation": 7.5,
+    "feasibility": 5.0,
+    "presentation": 8.3,
+    "teamwork": 7.5,
+    "track_fit": 6.6
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_1",
+      "overall_impression": "MemeHeal presents a creative and relatable approach to addressing mental health stigma through humor, but lacks depth in technical execution.",
+      "dimension_scores": {
+        "innovation": 8.0,
+        "feasibility": 5.5,
+        "presentation": 8.0,
+        "teamwork": 7.0,
+        "track_fit": 6.5
+      },
+      "strengths": [
+        "Clear and compelling presentation of the social impact goal",
+        "Strong team collaboration and complementary roles"
+      ],
+      "weaknesses": [
+        "Over-reliance on GPT-4 for meme generation without showcasing underlying technical innovation",
+        "Lack of detailed technical implementation and performance metrics"
+      ],
+      "feedback": "While your project has a strong social impact goal, consider incorporating more technical depth, such as custom protocols or novel data structures, to enhance the innovation score. Additionally, providing more concrete examples of how your fact-checking chatbot works could strengthen your feasibility and track fit."
+    },
+    {
+      "team_id": "team_1",
+      "overall_impression": "MemeHeal has a unique approach to addressing mental health stigma through humor, but the execution lacks depth in technical feasibility and operational robustness.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 5.5,
+        "presentation": 7.5,
+        "teamwork": 8.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Creative use of humor to address mental health stigma",
+        "Clear and compelling presentation and Q&A"
+      ],
+      "weaknesses": [
+        "Lack of detailed technical feasibility and operational robustness",
+        "No clear failure mode analysis or graceful degradation strategies"
+      ],
+      "feedback": "While your concept is innovative and well-presented, consider adding more detail on how you will handle potential failure modes and ensure the system is robust and scalable. This will help improve its feasibility and production-readiness."
+    },
+    {
+      "team_id": "team_1",
+      "overall_impression": "MemeHeal presents a unique approach to addressing mental health stigma through humor, but the execution seems more conceptual than practical.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 5.0,
+        "presentation": 8.0,
+        "teamwork": 7.0,
+        "track_fit": 6.5
+      },
+      "strengths": [
+        "Clear and compelling presentation of the idea and its potential impact",
+        "Strong team collaboration and complementary roles"
+      ],
+      "weaknesses": [
+        "Lack of concrete technical details and real-world implementation",
+        "Feasibility concerns given the complexity of the project within a hackathon timeframe"
+      ],
+      "feedback": "While the concept is innovative and has significant social impact potential, the team should focus on providing more detailed technical insights and a clearer roadmap for achieving their goals within the hackathon constraints."
+    },
+    {
+      "team_id": "team_1",
+      "overall_impression": "MemeHeal presents a unique approach to addressing mental health stigma through humor, with strong potential for impact.",
+      "dimension_scores": {
+        "innovation": 7.5,
+        "feasibility": 7.0,
+        "presentation": 10.0,
+        "teamwork": 8.5,
+        "track_fit": 9.0
+      },
+      "strengths": [
+        "Creative use of humor to address mental health stigma",
+        "Strong collaboration among team members, each contributing unique skills",
+        "Clear and compelling presentation with a well-rounded Q&A response"
+      ],
+      "weaknesses": [
+        "Technical feasibility could be improved with more detailed implementation plans"
+      ],
+      "feedback": "While the concept is innovative and well-presented, consider providing more detailed technical implementation strategies to enhance feasibility. This will help ensure the project can be successfully executed within the hackathon timeframe."
+    },
+    {
+      "team_id": "team_1",
+      "overall_impression": "MemeHeal has a creative and relatable approach to addressing mental health stigma through humor, but faces significant challenges in execution.",
+      "dimension_scores": {
+        "innovation": 8.0,
+        "feasibility": 2.0,
+        "presentation": 8.0,
+        "teamwork": 7.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the idea",
+        "Strong collaboration among team members"
+      ],
+      "weaknesses": [
+        "Lack of integration with neurotechnological insights",
+        "Potential issues with cultural sensitivity and content accuracy"
+      ],
+      "feedback": "While MemeHeal's approach is innovative and well-presented, it's crucial to address potential cultural sensitivities and ensure content accuracy. Consider incorporating neurotechnological insights to enhance the project's impact and feasibility."
+    }
+  ],
+  "feedbacks": [
+    "While your project has a strong social impact goal, consider incorporating more technical depth, such as custom protocols or novel data structures, to enhance the innovation score. Additionally, providing more concrete examples of how your fact-checking chatbot works could strengthen your feasibility and track fit.",
+    "While your concept is innovative and well-presented, consider adding more detail on how you will handle potential failure modes and ensure the system is robust and scalable. This will help improve its feasibility and production-readiness.",
+    "While the concept is innovative and has significant social impact potential, the team should focus on providing more detailed technical insights and a clearer roadmap for achieving their goals within the hackathon constraints.",
+    "While the concept is innovative and well-presented, consider providing more detailed technical implementation strategies to enhance feasibility. This will help ensure the project can be successfully executed within the hackathon timeframe.",
+    "While MemeHeal's approach is innovative and well-presented, it's crucial to address potential cultural sensitivities and ensure content accuracy. Consider incorporating neurotechnological insights to enhance the project's impact and feasibility."
+  ],
+  "strengths": [
+    "Clear and compelling presentation of the social impact goal",
+    "Strong team collaboration and complementary roles",
+    "Creative use of humor to address mental health stigma",
+    "Clear and compelling presentation and Q&A",
+    "Clear and compelling presentation of the idea and its potential impact",
+    "Strong team collaboration and complementary roles",
+    "Creative use of humor to address mental health stigma",
+    "Strong collaboration among team members, each contributing unique skills",
+    "Clear and compelling presentation with a well-rounded Q&A response",
+    "Clear and compelling presentation of the idea",
+    "Strong collaboration among team members"
+  ],
+  "weaknesses": [
+    "Over-reliance on GPT-4 for meme generation without showcasing underlying technical innovation",
+    "Lack of detailed technical implementation and performance metrics",
+    "Lack of detailed technical feasibility and operational robustness",
+    "No clear failure mode analysis or graceful degradation strategies",
+    "Lack of concrete technical details and real-world implementation",
+    "Feasibility concerns given the complexity of the project within a hackathon timeframe",
+    "Technical feasibility could be improved with more detailed implementation plans",
+    "Lack of integration with neurotechnological insights",
+    "Potential issues with cultural sensitivity and content accuracy"
+  ]
+}

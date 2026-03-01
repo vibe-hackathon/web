@@ -1,0 +1,140 @@
+{
+  "team_id": "team_9",
+  "average_score": 6.42,
+  "dimension_averages": {
+    "innovation": 7.3,
+    "feasibility": 4.2,
+    "presentation": 8.0,
+    "teamwork": 7.2,
+    "track_fit": 5.9
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_9",
+      "overall_impression": "UrbanVox presents a unique idea for fostering community engagement through AR, but faces significant challenges in implementation and scalability.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 3.5,
+        "presentation": 7.0,
+        "teamwork": 8.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the idea and its social impact.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Novelty of the idea is somewhat undermined by existing technologies like graffiti apps and social media platforms.",
+        "Feasibility concerns due to potential legal and ethical issues with anonymous comments on public property."
+      ],
+      "feedback": "While the concept is innovative and the team has strong collaboration, consider addressing the legal and ethical implications of anonymous comments on public property. Also, explore how TensorFlow Lite can be integrated more effectively for real-time processing and consider additional security measures beyond Firebase Authentication."
+    },
+    {
+      "team_id": "team_9",
+      "overall_impression": "UrbanVox has a unique and socially impactful idea, but faces significant technical challenges.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 5.5,
+        "presentation": 7.5,
+        "teamwork": 7.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the idea and its social impact.",
+        "Strong collaboration among team members, each contributing unique skills."
+      ],
+      "weaknesses": [
+        "Technical feasibility is questionable given the complexity of real-time AR and backend infrastructure requirements."
+      ],
+      "feedback": "While the concept is innovative and socially impactful, the technical implementation will require significant resources and expertise. Consider focusing on a more feasible MVP that addresses key aspects of your vision, such as a simplified AR preview or a basic backend setup."
+    },
+    {
+      "team_id": "team_9",
+      "overall_impression": "UrbanVox presents an interesting concept for fostering community engagement through AR, but faces significant technical challenges.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 5.0,
+        "presentation": 8.0,
+        "teamwork": 7.0,
+        "track_fit": 6.5
+      },
+      "strengths": [
+        "Clear and compelling presentation of the concept and its social impact.",
+        "Strong team collaboration and complementary roles."
+      ],
+      "weaknesses": [
+        "Technical feasibility is questionable given the complexity of real-time AR and backend infrastructure."
+      ],
+      "feedback": "While the concept is innovative and the presentation is strong, the technical execution seems challenging. Consider focusing on a more feasible MVP that demonstrates key features, such as a simplified AR preview and basic comment submission, to showcase your capabilities within the hackathon timeframe."
+    },
+    {
+      "team_id": "team_9",
+      "overall_impression": "UrbanVox presents a unique and socially impactful idea, but faces significant challenges in execution and feasibility.",
+      "dimension_scores": {
+        "innovation": 6.5,
+        "feasibility": 4.0,
+        "presentation": 9.5,
+        "teamwork": 7.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "The concept of transforming urban walls into interactive platforms for anonymous social commentary is innovative and socially impactful.",
+        "The team has a strong mix of roles and demonstrated clear collaboration during the Q&A session."
+      ],
+      "weaknesses": [
+        "The project's feasibility is questionable given the technical challenges and resource constraints of a hackathon setting.",
+        "While the presentation was clear, there were gaps in addressing key technical and operational concerns such as scalability and data privacy."
+      ],
+      "feedback": "While UrbanVox is a compelling idea, the team should focus on refining the technical feasibility and addressing critical aspects like scalability and data security. Consider simplifying the AR feature to ensure it can be built within the hackathon timeframe."
+    },
+    {
+      "team_id": "team_9",
+      "overall_impression": "UrbanVox presents a unique idea for fostering community engagement through AR, but the execution and technical feasibility need significant refinement.",
+      "dimension_scores": {
+        "innovation": 9.0,
+        "feasibility": 3.0,
+        "presentation": 8.0,
+        "teamwork": 7.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "The concept of transforming urban walls into interactive platforms for anonymous social commentary is highly innovative and addresses a relevant social issue.",
+        "The team has a strong mix of skills, including project management, backend development, frontend development, and UX/UI design."
+      ],
+      "weaknesses": [
+        "The technical feasibility of building a fully functional AR app with real-time interaction and scalable backend infrastructure is challenging within a hackathon timeframe.",
+        "While the presentation was clear and compelling, there were gaps in explaining how the app would handle large-scale user interactions and ensure robust data privacy and security."
+      ],
+      "feedback": "While the concept is promising, the team should focus on simplifying the technical requirements and providing more detailed plans for handling real-time interactions and scaling. Consider leveraging pre-built AR libraries and focusing on key features that can be demonstrated within the hackathon timeframe."
+    }
+  ],
+  "feedbacks": [
+    "While the concept is innovative and the team has strong collaboration, consider addressing the legal and ethical implications of anonymous comments on public property. Also, explore how TensorFlow Lite can be integrated more effectively for real-time processing and consider additional security measures beyond Firebase Authentication.",
+    "While the concept is innovative and socially impactful, the technical implementation will require significant resources and expertise. Consider focusing on a more feasible MVP that addresses key aspects of your vision, such as a simplified AR preview or a basic backend setup.",
+    "While the concept is innovative and the presentation is strong, the technical execution seems challenging. Consider focusing on a more feasible MVP that demonstrates key features, such as a simplified AR preview and basic comment submission, to showcase your capabilities within the hackathon timeframe.",
+    "While UrbanVox is a compelling idea, the team should focus on refining the technical feasibility and addressing critical aspects like scalability and data security. Consider simplifying the AR feature to ensure it can be built within the hackathon timeframe.",
+    "While the concept is promising, the team should focus on simplifying the technical requirements and providing more detailed plans for handling real-time interactions and scaling. Consider leveraging pre-built AR libraries and focusing on key features that can be demonstrated within the hackathon timeframe."
+  ],
+  "strengths": [
+    "Clear and compelling presentation of the idea and its social impact.",
+    "Strong team collaboration and complementary roles.",
+    "Clear and compelling presentation of the idea and its social impact.",
+    "Strong collaboration among team members, each contributing unique skills.",
+    "Clear and compelling presentation of the concept and its social impact.",
+    "Strong team collaboration and complementary roles.",
+    "The concept of transforming urban walls into interactive platforms for anonymous social commentary is innovative and socially impactful.",
+    "The team has a strong mix of roles and demonstrated clear collaboration during the Q&A session.",
+    "The concept of transforming urban walls into interactive platforms for anonymous social commentary is highly innovative and addresses a relevant social issue.",
+    "The team has a strong mix of skills, including project management, backend development, frontend development, and UX/UI design."
+  ],
+  "weaknesses": [
+    "Novelty of the idea is somewhat undermined by existing technologies like graffiti apps and social media platforms.",
+    "Feasibility concerns due to potential legal and ethical issues with anonymous comments on public property.",
+    "Technical feasibility is questionable given the complexity of real-time AR and backend infrastructure requirements.",
+    "Technical feasibility is questionable given the complexity of real-time AR and backend infrastructure.",
+    "The project's feasibility is questionable given the technical challenges and resource constraints of a hackathon setting.",
+    "While the presentation was clear, there were gaps in addressing key technical and operational concerns such as scalability and data privacy.",
+    "The technical feasibility of building a fully functional AR app with real-time interaction and scalable backend infrastructure is challenging within a hackathon timeframe.",
+    "While the presentation was clear and compelling, there were gaps in explaining how the app would handle large-scale user interactions and ensure robust data privacy and security."
+  ]
+}

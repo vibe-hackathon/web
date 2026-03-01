@@ -1,0 +1,146 @@
+{
+  "team_id": "team_5",
+  "average_score": 5.87,
+  "dimension_averages": {
+    "innovation": 6.5,
+    "feasibility": 3.8,
+    "presentation": 7.2,
+    "teamwork": 7.2,
+    "track_fit": 5.3
+  },
+  "judge_outputs": [
+    {
+      "team_id": "team_5",
+      "overall_impression": "Echoes of Dissent presents a noble cause but lacks technical depth and practical implementation details.",
+      "dimension_scores": {
+        "innovation": 7.0,
+        "feasibility": 3.5,
+        "presentation": 7.0,
+        "teamwork": 8.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear and compelling vision for amplifying silenced voices",
+        "Well-rounded team with diverse skills"
+      ],
+      "weaknesses": [
+        "Lack of technical detail and concrete implementation plans",
+        "Over-reliance on blockchain without addressing scalability concerns"
+      ],
+      "feedback": "While the concept is impactful, the team should focus on providing more technical details and a clear roadmap for implementation. Addressing scalability and ensuring cultural sensitivity in sentiment analysis will be crucial."
+    },
+    {
+      "team_id": "team_5",
+      "overall_impression": "The project aims to address an important issue but lacks depth in technical execution and feasibility.",
+      "dimension_scores": {
+        "innovation": 6.0,
+        "feasibility": 5.5,
+        "presentation": 6.5,
+        "teamwork": 8.0,
+        "track_fit": 5.0
+      },
+      "strengths": [
+        "Clear and compelling presentation of the problem and solution.",
+        "Strong collaboration among team members."
+      ],
+      "weaknesses": [
+        "Lack of detailed technical implementation and potential scalability issues.",
+        "Overemphasis on blockchain for authentication without considering practical challenges."
+      ],
+      "feedback": "While the concept is innovative and important, the team should focus more on the technical feasibility and scalability of their solution. Consider providing more details on how you plan to handle edge cases and ensure the platform can handle high traffic volumes."
+    },
+    {
+      "team_id": "team_5",
+      "overall_impression": "The idea of amplifying silenced voices is impactful, but the execution lacks specificity and practicality.",
+      "dimension_scores": {
+        "innovation": 4.0,
+        "feasibility": 4.0,
+        "presentation": 5.0,
+        "teamwork": 6.0,
+        "track_fit": 4.5
+      },
+      "strengths": [
+        "The team has a clear vision and strong collaboration, as evidenced by their detailed responses during the Q&A.",
+        "The use of blockchain for user authentication and sentiment analysis with BERT models shows a good understanding of technology."
+      ],
+      "weaknesses": [
+        "The project lacks concrete metrics and benchmarks, making it hard to assess its real-world impact and feasibility.",
+        "Handling sensitive content and ensuring real-time performance with a multi-tier architecture seems overly complex for a hackathon setting."
+      ],
+      "feedback": "While the idea is compelling, the team should focus on providing more concrete metrics and simplifying their technical approach to make the project more feasible within a hackathon timeframe. Consider adding specific examples or case studies to demonstrate the platform's effectiveness."
+    },
+    {
+      "team_id": "team_5",
+      "overall_impression": "Echoes of Dissent presents a compelling idea with significant social impact, but faces substantial technical and implementation challenges.",
+      "dimension_scores": {
+        "innovation": 6.5,
+        "feasibility": 3.0,
+        "presentation": 9.5,
+        "teamwork": 7.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Clear and compelling problem statement and solution approach",
+        "Strong team collaboration and complementary roles"
+      ],
+      "weaknesses": [
+        "High technical complexity and potential scalability issues with blockchain",
+        "Lack of concrete implementation details and timelines"
+      ],
+      "feedback": "While the idea is innovative and socially impactful, the team needs to address the technical feasibility, particularly around blockchain scalability and sentiment analysis accuracy. Providing more detailed plans and timelines would strengthen your case."
+    },
+    {
+      "team_id": "team_5",
+      "overall_impression": "Echoes of Dissent presents a compelling idea with significant social impact, but faces substantial technical and ethical challenges.",
+      "dimension_scores": {
+        "innovation": 9.0,
+        "feasibility": 3.0,
+        "presentation": 8.0,
+        "teamwork": 7.0,
+        "track_fit": 6.0
+      },
+      "strengths": [
+        "Clear and compelling vision for amplifying silenced voices",
+        "Strong use of blockchain for transparency and sentiment analysis",
+        "Effective Q&A addressing key concerns"
+      ],
+      "weaknesses": [
+        "Overly ambitious for a hackathon given the complexity and scale",
+        "Lack of concrete technical implementation details"
+      ],
+      "feedback": "While the idea is innovative and socially impactful, the project is quite ambitious for a hackathon. Focus on building a minimal viable product (MVP) that demonstrates key features, such as sentiment analysis and blockchain integration, rather than attempting full-scale deployment. This will help you validate your approach and address potential challenges more effectively."
+    }
+  ],
+  "feedbacks": [
+    "While the concept is impactful, the team should focus on providing more technical details and a clear roadmap for implementation. Addressing scalability and ensuring cultural sensitivity in sentiment analysis will be crucial.",
+    "While the concept is innovative and important, the team should focus more on the technical feasibility and scalability of their solution. Consider providing more details on how you plan to handle edge cases and ensure the platform can handle high traffic volumes.",
+    "While the idea is compelling, the team should focus on providing more concrete metrics and simplifying their technical approach to make the project more feasible within a hackathon timeframe. Consider adding specific examples or case studies to demonstrate the platform's effectiveness.",
+    "While the idea is innovative and socially impactful, the team needs to address the technical feasibility, particularly around blockchain scalability and sentiment analysis accuracy. Providing more detailed plans and timelines would strengthen your case.",
+    "While the idea is innovative and socially impactful, the project is quite ambitious for a hackathon. Focus on building a minimal viable product (MVP) that demonstrates key features, such as sentiment analysis and blockchain integration, rather than attempting full-scale deployment. This will help you validate your approach and address potential challenges more effectively."
+  ],
+  "strengths": [
+    "Clear and compelling vision for amplifying silenced voices",
+    "Well-rounded team with diverse skills",
+    "Clear and compelling presentation of the problem and solution.",
+    "Strong collaboration among team members.",
+    "The team has a clear vision and strong collaboration, as evidenced by their detailed responses during the Q&A.",
+    "The use of blockchain for user authentication and sentiment analysis with BERT models shows a good understanding of technology.",
+    "Clear and compelling problem statement and solution approach",
+    "Strong team collaboration and complementary roles",
+    "Clear and compelling vision for amplifying silenced voices",
+    "Strong use of blockchain for transparency and sentiment analysis",
+    "Effective Q&A addressing key concerns"
+  ],
+  "weaknesses": [
+    "Lack of technical detail and concrete implementation plans",
+    "Over-reliance on blockchain without addressing scalability concerns",
+    "Lack of detailed technical implementation and potential scalability issues.",
+    "Overemphasis on blockchain for authentication without considering practical challenges.",
+    "The project lacks concrete metrics and benchmarks, making it hard to assess its real-world impact and feasibility.",
+    "Handling sensitive content and ensuring real-time performance with a multi-tier architecture seems overly complex for a hackathon setting.",
+    "High technical complexity and potential scalability issues with blockchain",
+    "Lack of concrete implementation details and timelines",
+    "Overly ambitious for a hackathon given the complexity and scale",
+    "Lack of concrete technical implementation details"
+  ]
+}
