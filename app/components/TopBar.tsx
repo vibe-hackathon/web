@@ -20,7 +20,7 @@ export default function TopBar() {
   return (
     <div className="flex items-center justify-between px-6 py-3 bg-gray-900 text-white border-b border-gray-700">
       <div className="flex items-center gap-4">
-        <h1 className="text-lg font-bold tracking-tight">Hackathon Arena</h1>
+        <h1 className="text-lg font-bold tracking-tight">Vibeathon 2026</h1>
         <span className={`px-3 py-1 rounded-full text-xs font-medium ${PHASE_COLORS[phase]}`}>
           {PHASE_LABELS[phase]}
         </span>
